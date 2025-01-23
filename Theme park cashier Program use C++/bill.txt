@@ -1,0 +1,9 @@
+-------Bill-------
+|Price : 320.00 bath
+|Pay : 500.00
+|change : 180.00 bath
+|100 bath bill = 1
+|50 bath bill = 1
+|20 bath bill = 1
+|10 bath coins = 1
+!!!!!Thank you!!!!!
