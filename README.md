@@ -2,7 +2,7 @@
 [Main Github](https://github.com/Pongpipat-K/Pongpipat-K.github.io)
 ## Projects 🎉
 
-- 🐶 **[Dog Breed Detection using YOLOv5](Dog Breed Detection using YOLOv5)**
+- 🐶 **[Dog Breed Detection using YOLOv5](https://github.com/Pongpipat-K/Pongpipat-K.github.io/tree/554e325cd33aa0e0f949159c929aeb2a60709d66/Dog%20Breed%20Detection%20using%20YOLOv5)**
   - ระบบตรวจจับสายพันธุ์สุนัขด้วย YOLOv5
 - 🍴 **[MBT Restaurant Management System](https://github.com/username/MBT-Restaurant-Python)**
   - โปรแกรมจัดการร้านอาหารด้วย Python
