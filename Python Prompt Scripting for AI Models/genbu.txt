@@ -1,1200 +1,2617 @@
-positive: romantic love-themed pattern featuring hearts, roses, and cupid arrows, soft pastel pink and red colors, dreamy and sweet, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, sharp lines, unbalanced placement
----
-positive: minimalist Valentine's Day design with two hands forming a heart, soft gradient shades of pink and gold, simple and elegant, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough textures, uneven design
----
-positive: seamless heart-shaped pattern with intertwined ribbons, bright red, and gold accents, festive and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, uneven spacing, blurry details
----
-positive: romantic scene of two silhouettes holding hands under a glowing moon, warm yellow and red tones, soft and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, harsh edges, muted colors, unbalanced shapes
----
-positive: vector style illustration of a couple in love with roses and hearts floating around them, soft pink, red, and white hues, romantic and playful, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, unbalanced proportions, rough textures
----
-positive: seamless pattern of heart-shaped balloons floating over a sunset sky, warm oranges and pinks, love-filled and serene, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, inconsistent shading, jagged edges
----
-positive: minimalistic design of two overlapping hearts with a soft glowing effect, in shades of gold, silver, and light pink, romantic and elegant, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough textures, uneven lines
----
-positive: abstract romantic composition with love letters and roses, shades of red, cream, and soft blue, whimsical and heartwarming, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, unbalanced details, blurry lines
----
-positive: seamless pattern with hand-drawn lovebirds, hearts, and floral elements, bright red and green tones, light and cheerful, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough textures, uneven shapes
----
-positive: cute illustration of a couple sharing a kiss under a floating heart, soft pink and lavender hues, romantic and tender, 1:1 aspect ratio
-
-negative: text, watermark, sharp edges, muted colors, unbalanced composition
----
-positive: whimsical heart-shaped confetti falling from the sky, bright pink, purple, and red hues, joyful and festive, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced shapes, rough edges
----
-positive: cute hand-drawn heart-shaped clouds with sun rays shining through, pastel colors of yellow, pink, and lavender, warm and happy, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, inconsistent shapes, blurry transitions
----
-positive: illustration of a couple sitting on a swing surrounded by hearts and stars, gentle pink and violet tones, dreamy and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, jagged edges, rough lines
----
-positive: cartoon couple in a cozy home surrounded by heart-shaped decorations, bright and cheerful reds, pinks, and blues, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough lines, unbalanced composition
----
-positive: seamless abstract design with intertwined hearts and swirls, soft reds, whites, and gold, romantic and elegant, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven placement, rough edges
----
-positive: romantic heart-shaped tree with branches forming a love symbol, vibrant reds and greens, soft and peaceful, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, inconsistent shading, rough textures
----
-positive: cute cartoon-style couple holding hands with heart-shaped balloons, soft pink and lavender tones, sweet and light-hearted, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven placement, jagged lines
----
-positive: abstract love composition with swirling hearts and glowing effects, bold shades of pink, purple, and red, dreamy and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, unbalanced details, rough edges
----
-positive: hand-drawn illustration of a cozy Valentine’s Day picnic with a heart-shaped blanket, soft pastel colors, warm and inviting, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, blurry lines, uneven design
----
-positive: seamless pattern of hand-drawn hearts, flowers, and stars, vibrant pink, red, and purple tones, joyful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, inconsistent shapes, jagged edges
----
-positive: elegant rose-patterned design with intertwined vines and hearts, gold and deep red tones, sophisticated and romantic, 1:1 aspect ratio
-
-negative: text, watermark, soft lines, unbalanced elements, rough textures
----
-positive: minimalist design of a single glowing heart, soft pastel gradient of pink and peach, elegant and serene, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, inconsistent blending, rough edges
----
-positive: romantic scene of a couple under a starlit sky, hearts floating above them, shades of midnight blue, silver, and lavender, peaceful and elegant, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, unbalanced placement, jagged lines
----
-positive: vintage-inspired Valentine's Day card design with roses and a love quote, soft shades of pink and cream, classic and timeless, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven design, rough textures
----
-positive: seamless pattern of subtle geometric hearts and glowing lights, delicate gold and red accents, elegant and refined, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, inconsistent lines, rough edges
----
-positive: sophisticated love design with intertwining ribbons and hearts, soft blush pink, and deep red, romantic and elegant, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced shapes, rough edges
----
-positive: romantic abstract design with fluid heart shapes and gentle gradients of red and pink, dreamy and soft, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, blurry details, rough lines
----
-positive: intricate love-themed mandala with heart patterns, soft rose gold and red hues, elegant and symbolic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced details, jagged edges
----
-positive: romantic floral design with roses and heart-shaped petals, pastel shades of pink, purple, and white, serene and sophisticated, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, uneven design, rough edges
----
-positive: seamless pattern of hearts and swirling vines, shades of red, gold, and white, elegant and intricate, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven alignment, blurry details
----
-positive: playful design with a love potion bottle surrounded by hearts, swirling smoke, and pink bubbles, soft pastel pinks and lilacs, whimsical and light-hearted, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, jagged edges, unbalanced alignment
----
-positive: seamless pattern of cartoon-style hearts and kisses, bright shades of red, pink, and purple, fun and cheerful, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough textures, blurry details
----
-positive: adorable heart-shaped hot air balloons floating above a city skyline, shades of red, pink, and light blue, romantic and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough edges, uneven placement
----
-positive: cute couple of bunnies holding heart-shaped balloons, soft pastel colors like blush pink and lavender, sweet and playful, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, uneven shapes, blurry details
----
-positive: joyful heart-shaped clouds with rays of sunlight, playful design with vibrant pinks, yellows, and blues, light and carefree, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, inconsistent details, rough edges
----
-positive: seamless pattern of romantic love messages inside heart-shaped frames, with delicate flowers and soft watercolor accents, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough texture, unbalanced shapes
----
-positive: playful illustration of a couple holding hands surrounded by floating hearts, soft blush tones and golden accents, tender and cheerful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven lines, rough textures
----
-positive: whimsical lovebirds perched on a tree branch, hearts surrounding them, in shades of pink, purple, and blue, cute and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, uneven shapes, blurry details
----
-positive: adorable illustrated heart-shaped cupcakes with frosting and sprinkles, vibrant reds, pinks, and pastel tones, sweet and charming, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough edges, unbalanced placement
----
-positive: hand-drawn pattern of heart-shaped balloons tied to vintage bicycles, soft pastel pinks and mint greens, light and nostalgic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough lines, inconsistent design
----
-positive: intricate design of swirling gold filigree with small heart patterns, soft ivory and gold hues, elegant and sophisticated, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven shapes, blurry edges
----
-positive: classic vintage Valentine’s card design with lace hearts and delicate roses, soft cream, blush pink, and deep red, timeless and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, unbalanced textures, rough edges
----
-positive: elegant design with a golden heart surrounded by roses and soft lace patterns, delicate pastel tones, romantic and refined, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, inconsistent shading, uneven placement
----
-positive: romantic vintage pattern with heart-shaped pocket watches and roses, soft gold and red tones, vintage and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough textures, unbalanced design
----
-positive: sophisticated design of intertwined hearts and delicate vines, silver and gold accents, soft pastel pink background, elegant and timeless, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, unbalanced alignment, rough edges
----
-positive: romantic illustration of a couple sharing a kiss under a rose arch, gold accents and soft pastel hues, elegant and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, uneven texture, blurry lines
----
-positive: intricate lace heart pattern with subtle gold detailing, soft cream background, sophisticated and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced shapes, rough edges
----
-positive: refined heart-shaped patterns interwoven with roses and pearls, delicate pink and white tones, elegant and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, uneven lines, blurry transitions
----
-positive: romantic vintage-style design with delicate lace hearts and flower petals, soft peach and ivory colors, graceful and charming, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough textures, inconsistent shapes
----
-positive: classic Valentine’s Day design with soft watercolor hearts surrounded by intricate floral patterns, light and soft pastel shades, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough edges, unbalanced proportions
----
-positive: modern minimalist design with overlapping heart shapes and a gradient of red and pink, clean and sleek, contemporary and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, inconsistent shapes, blurry edges
----
-positive: seamless pattern with abstract heart shapes, bold neon red and pink hues, modern and dynamic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, uneven alignment, rough edges
----
-positive: modern geometric hearts with sharp angles, bright and bold shades of red, purple, and black, edgy and stylish, 1:1 aspect ratio
-
-negative: text, watermark, soft edges, dull tones, unbalanced shapes
----
-positive: modern vector illustration of a heart surrounded by geometric lines and soft gradients, contemporary design in shades of pink and red, 1:1 aspect ratio
-
-negative: text, watermark, rough textures, uneven design, dull colors
----
-positive: sleek and abstract love design with fragmented hearts and clean lines, vibrant shades of pink and black, modern and chic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough edges, uneven proportions
----
-positive: minimalist heart-shaped icons arranged in a symmetrical pattern, clean white background with red accents, modern and fresh, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, unbalanced shapes, blurry edges
----
-positive: contemporary design with digital glitch-style hearts, vibrant pink and neon red colors, modern and edgy, 1:1 aspect ratio
-
-negative: text, watermark, soft edges, muted tones, inconsistent shapes
----
-positive: abstract design of overlapping hearts and dynamic lines, bold red, white, and black contrasts, modern and energetic, 1:1 aspect ratio
-
-negative: text, watermark, rough textures, blurry details, uneven alignment
----
-positive: geometric pattern with stacked hearts and minimalistic lines, modern colors of red, gold, and white, sleek and stylish, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced shapes, blurry lines
----
-positive: vector-style design of a heart made of interwoven lines and dots, contemporary shades of red, purple, and silver, clean and modern, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough edges, unbalanced design
----
-positive: digital painting of a couple sharing an umbrella under a starry sky, soft light reflecting off rain drops, shades of deep blue and pink, serene and intimate, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough textures, flat composition
----
-positive: hand-drawn illustration of a heart-shaped balloon with roses inside, soft blush pink and red tones, vintage romantic style, 1:1 aspect ratio
-
-negative: text, watermark, uneven colors, sharp lines, low contrast
----
-positive: whimsical design of two intertwined hearts with flowing ribbons, pastel purple, pink, and gold accents, playful and light-hearted, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough texture, uneven flow
----
-positive: abstract art of love represented with geometric hearts and overlapping lines, neon pinks and deep purples, modern and minimalistic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, uneven lines, chaotic design
----
-positive: minimalist black and white silhouette of a couple holding hands, surrounded by a flurry of small hearts, clean and elegant, 1:1 aspect ratio
-
-negative: text, watermark, rough edges, dull tones, cluttered space
----
-positive: serene painting of a single heart surrounded by glowing lights, soft pastel tones of pink, lavender, and gold, tranquil and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough textures, heavy shading
----
-positive: playful heart-shaped confetti falling through the air, vibrant shades of red, pink, and gold, festive and joyful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced alignment, harsh details
----
-positive: whimsical design of a love potion bottle with floating hearts and sparkles, pink and purple hues, magical and enchanting, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough shapes, blurry lines
----
-positive: detailed illustration of a couple's hands exchanging heart-shaped flowers, soft pastels with pops of red, sweet and affectionate, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, uneven proportions, rough edges
----
-positive: romantic sunset scene with heart-shaped clouds and a couple walking hand-in-hand along the beach, warm golden and pink hues, peaceful and loving, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, lack of depth, awkward placement
----
-positive: modern abstract hearts with vibrant splashes of red, yellow, and purple, bold brush strokes and splatters, artistic and dynamic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough edges, symmetrical design
----
-positive: bold digital art of two interlocking hearts formed from geometric shapes, contrasting black, white, and red hues, modern and stylish, 1:1 aspect ratio
-
-negative: text, watermark, soft textures, uneven shapes, dull colors
----
-positive: dramatic painting of a heart-shaped tree with glowing golden leaves, contrasting dark and light backgrounds, mystical and unique, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough textures, cluttered composition
----
-positive: vibrant watercolor of a love letter with heart-shaped ink stains, soft and fluid brush strokes in pink and purple, romantic and spontaneous, 1:1 aspect ratio
-
-negative: text, watermark, sharp lines, dull colors, lack of flow
----
-positive: modern pop-art inspired design with bold comic-style hearts and speech bubbles, bright primary colors like red, yellow, and blue, fun and quirky, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough textures, dull shading
----
-positive: abstract modern art of intertwining hearts in black, red, and gold, minimalistic with sharp contrasts, chic and sophisticated, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven shapes, heavy texture
----
-positive: futuristic digital design with neon heart-shaped lines floating on a black background, glowing effects, high-tech and bold, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, uneven lighting, flat design
----
-positive: expressive brushstroke painting of a heart-shaped flame, blending shades of red, orange, and yellow, warm and passionate, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough edges, uneven shapes
----
-positive: contemporary illustration of heart-shaped sunglasses reflecting a sunset, vibrant orange, pink, and purple hues, trendy and fun, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, blurry details, cluttered composition
----
-positive: bold, high-contrast design of a heart broken into pieces, fragments scattered across a dark background with glowing edges, dramatic and emotional, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, uneven shapes, cluttered lines
----
-positive: soft illustration of a couple enjoying hot cocoa in a cozy cabin, surrounded by heart-shaped marshmallows, warm earthy tones of brown and pink, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough textures, unbalanced design
----
-positive: sweet sketch of two lovebirds sitting on a tree branch, sharing a heart-shaped berry, soft warm tones of pink and orange, cute and tender, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough edges, blurry details
----
-positive: cozy blanket and heart-shaped pillows on a couch with soft candlelight glowing in the background, pastel pinks and whites, intimate and peaceful, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, chaotic design, harsh lighting
----
-positive: digital painting of a heart-shaped cloud floating over a quiet village at sunset, soft lavender and golden tones, calming and serene, 1:1 aspect ratio
-
-negative: text, watermark, rough textures, uneven proportions, muted hues
----
-positive: hand-drawn illustration of a couple making heart-shaped pizza together, fun and cute with vibrant reds, yellows, and greens, joyful and sweet, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced composition, blurry details
----
-positive: watercolor painting of heart-shaped candles surrounded by rose petals, soft pastels and golden light, romantic and serene, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, rough edges, uneven lighting
----
-positive: cozy scene of a couple under a blanket, surrounded by heart-shaped snowflakes and soft glowing lights, warm winter tones, tender and loving, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough textures, cluttered design
----
-positive: charming illustration of a dog with heart-shaped glasses, sitting by a window with soft light pouring in, playful and sweet, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, unbalanced composition, blurry lines
----
-positive: adorable cats holding heart-shaped balloons against a soft pastel-colored background, sweet and playful, light pinks and blues, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough textures, uneven placement
----
-positive: whimsical scene of heart-shaped raindrops falling on a garden, soft pastel colors, light and dreamy, peaceful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven alignment, sharp edges
----
-positive: soft watercolor painting of two hands forming a heart shape against a sunset background, warm tones of pink, orange, and lavender, peaceful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough textures, awkward composition
----
-positive: digital illustration of a heart-shaped puzzle with pieces coming together, vibrant red, gold, and silver accents, symbolic and heartfelt, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, uneven shapes, blurry lines
----
-positive: minimalist silhouette of a couple sharing a kiss under a heart-shaped moon, simple and elegant black lines on a soft pastel sky, 1:1 aspect ratio
-
-negative: text, watermark, cluttered design, dull tones, uneven lighting
----
-positive: intricate illustration of a heart made of flowers and vines, delicate soft greens, pinks, and whites, nature-inspired and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, harsh lines, imbalanced composition
----
-positive: charming hand-drawn design of a couple sitting on a park bench with heart-shaped leaves falling, soft earthy tones with pops of red and yellow, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced composition, rough edges
----
-positive: vintage-style romantic postcard with a heart-shaped hot air balloon floating above a scenic landscape, soft pastel colors with a touch of gold, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, pixelated details, unbalanced focus
----
-positive: cute cartoon illustration of a pair of lovebirds with heart-shaped wings perched on a tree, vibrant pinks, reds, and blues, whimsical and joyful, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, flat design, unaligned composition
----
-positive: abstract artwork with a heart-shaped geometric design, metallic gold and deep red, modern and sleek, 1:1 aspect ratio
-
-negative: text, watermark, rough textures, muted tones, chaotic lines
----
-positive: romantic scene of a couple in a boat surrounded by floating heart-shaped lanterns, glowing softly against a twilight sky, warm golden and pink tones, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, harsh lighting, blurry shapes
----
-positive: surreal scene of a heart-shaped rainbow forming over a mountain landscape, vibrant colors blending in the sky, magical and awe-inspiring, 1:1 aspect ratio
-
-negative: text, watermark, muted hues, rough texture, cluttered design
----
-positive: vibrant pop art-inspired design of a couple surrounded by colorful speech bubbles with heart symbols, bold and playful, primary colors, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, flat composition, blurry shapes
----
-positive: whimsical watercolor painting of heart-shaped clouds drifting across a bright blue sky, light pink and white accents, dreamy and soft, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, harsh lines, lack of depth
----
-positive: cute hand-drawn illustration of a teddy bear holding a heart-shaped gift box, soft pastel colors with little hearts scattered around, cozy and heartwarming, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough textures, blurry edges
----
-positive: digital design of two intertwined hearts made of ribbons and stars, sparkling in shades of purple, pink, and gold, elegant and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, unbalanced flow, sharp lines
----
-positive: geometric heart pattern in a kaleidoscope of bright neon colors, abstract and modern, dynamic and energetic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurred edges, uneven contrast
----
-positive: playful illustration of heart-shaped fruits like strawberries, apples, and oranges, bright red, green, and yellow hues, fun and fresh, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, flat design, unbalanced composition
----
-positive: romantic minimalistic line art of a couple's silhouette holding hands with heart-shaped petals falling around them, soft tones of lavender and pink, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough lines, chaotic details
----
-positive: surreal design of a heart-shaped moon over a peaceful night ocean, glowing soft blues, purples, and silvers, calm and tranquil, 1:1 aspect ratio
-
-negative: text, watermark, harsh lighting, dull colors, cluttered space
----
-positive: colorful gradient background with large, soft heart shapes blended in the hues, romantic and dreamlike, with subtle sparkles, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough textures, unbalanced color flow
----
-positive: charming sketch of a couple sharing a cupcake with a heart-shaped topping, light pink and chocolate brown tones, sweet and playful, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, blurry lines, unbalanced design
----
-positive: high-contrast design of a cracked heart with glowing electric lines running through it, dark background with vibrant neon accents, dramatic and intense, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven lines, blurry details
----
-positive: abstract painting of red and white swirls forming a love heart, with bold brush strokes and intense color contrasts, expressive and artistic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough lines, unclear focus
----
-positive: black-and-white minimalist illustration of a couple’s hands forming a heart shape, sharp clean lines with a single red heart in the center, elegant and modern, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, blurred lines, overly complex
----
-positive: glowing neon pink heart shape against a dark background, abstract shapes and light trails weaving around it, dynamic and futuristic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced composition, overly sharp details
----
-positive: surreal digital art of heart-shaped clouds floating in a bright cosmic sky filled with stars and galaxies, dreamlike and ethereal, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, blurry edges, too much detail
----
-positive: modern vector design of hearts made from angular geometric shapes, vibrant colors like red, orange, and purple, abstract and bold, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, uneven symmetry, blurry details
----
-positive: vintage-style pop-art design with bold colors and heart motifs scattered across the canvas, energetic and retro, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, flat design, chaotic patterns
----
-positive: artistic collage of different heart shapes using cut-out paper style, soft pastels and textured details, vintage and artistic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough edges, imbalanced composition
----
-positive: abstract silhouette of a couple kissing, with heart-shaped bursts of color radiating from their lips, rich shades of red, purple, and pink, romantic and modern, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough lines, blurry details
----
-positive: intricate heart-shaped mandala with radiant golden accents, delicate and symmetrical, peaceful and elegant, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, uneven symmetry, sharp edges
----
-positive: cute hand-drawn illustration of two heart-shaped balloons tied together with a ribbon, floating against a blue sky, light pastel tones, joyful and charming, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, rough edges, cluttered background
----
-positive: digital painting of a heart-shaped galaxy with stars and planets swirling around, deep purple and pink hues, dreamy and cosmic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unclear composition, harsh lighting
----
-positive: watercolor painting of a couple walking hand-in-hand through a park with heart-shaped trees, soft greens and pinks, peaceful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, blurry details, chaotic elements
----
-positive: playful cartoon illustration of a love-struck bear holding a large heart, surrounded by tiny hearts and flowers, bright red and pink, whimsical, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, flat design, blurry details
----
-positive: modern digital design of a heart breaking into multiple colorful puzzle pieces, soft gradients of pink, red, and gold, dynamic and bold, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced design, rough edges
----
-positive: minimalist sketch of a couple sitting under a heart-shaped tree, soft pastel shades with a soft light glow, peaceful and intimate, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, busy details, uneven lines
----
-positive: fun vector design of heart-shaped ice cream cones stacked on top of each other, vibrant colors like pink, orange, and mint green, playful and fresh, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, unbalanced composition, rough edges
----
-positive: glowing neon sign of a heart surrounded by sparkles and stars, vivid pink and gold against a dark background, modern and futuristic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, blurry details, harsh shadows
----
-positive: digital painting of a love letter with a heart-shaped wax seal, soft cream and red tones, elegant and heartfelt, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, pixelated details, unbalanced design
----
-positive: surreal design of a couple made of stardust standing inside a giant glowing heart, cosmic background of stars and galaxies, magical and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurred lines, overly complex design
----
-positive: elegant sketch of a couple's faces forming the shape of a heart, soft pencil lines with a touch of watercolor, intimate and delicate, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, sharp lines, unrefined details
----
-positive: vibrant digital painting of heart-shaped balloons floating against a bright city skyline at sunset, warm red and gold tones, festive and joyful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, cluttered background, blurry elements
----
-positive: hand-drawn illustration of two lovebirds sitting in a heart-shaped nest, soft pastel colors, whimsical and sweet, 1:1 aspect ratio
-
-negative: text, watermark, rough lines, muted tones, unbalanced design
----
-positive: abstract watercolor design of flowing hearts in shades of deep red and pink, soft brushstrokes and fluid movement, elegant and serene, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, dull tones, static composition
----
-positive: vibrant and bold vector pattern of heart-shaped fireworks bursting in the night sky, bright reds, blues, and whites, dynamic and celebratory, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, unclear focus, rough edges
----
-positive: charming digital design of a heart-shaped cactus plant, adorned with small colorful flowers, vibrant greens and pinks, quirky and fun, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced composition, rough textures
----
-positive: romantic watercolor painting of a couple sharing an umbrella under a heart-shaped rain cloud, soft blue and pink hues, dreamy and sweet, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, blurry details, rough edges
----
-positive: high-contrast silhouette of a couple under a heart-shaped fireworks display, glowing lights and sparks in bright red and yellow, energetic and romantic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, blurry edges, chaotic composition
----
-positive: playful vector design of a smiling cat with a heart-shaped balloon, soft pastel colors with pink, white, and light blue, whimsical and cute, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, flat design, blurry edges
----
-positive: digital painting of a glowing heart-shaped jellyfish drifting through a starry ocean, soft blues and pinks with shimmering highlights, magical and serene, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough lines, blurry composition
----
-positive: vintage-inspired heart-shaped frame made of lace and floral patterns, soft beige and pink tones, romantic and delicate, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, harsh textures, unbalanced detail
----
-positive: abstract minimalist heart design with thin white lines on a gradient red background, sleek and modern, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, too much detail, blurry composition
----
-positive: surreal painting of a heart-shaped rainbow arching over a calm ocean, soft pastel shades, ethereal and peaceful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough brush strokes, too much detail
----
-positive: fun 3D-style design of a heart-shaped cloud made of cotton candy, soft pinks and blues, playful and lighthearted, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, unbalanced composition, sharp lines
----
-positive: hand-painted image of a heart-shaped lighthouse surrounded by calm waves, glowing soft whites and reds, romantic and tranquil, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, blurry edges, unrefined details
----
-positive: digital vector of abstract heart-shaped graffiti art on a brick wall, vibrant spray paint colors like neon pink, purple, and blue, bold and urban, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, overly busy design, rough textures
----
-positive: elegant watercolor painting of a heart-shaped diamond surrounded by sparkling light, soft blue and silver accents, luxurious and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, harsh edges, cluttered background
----
-positive: whimsical illustration of a couple riding a heart-shaped hot air balloon, floating above a village, vibrant red and yellow hues, adventurous and sweet, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, flat design, unclear composition
----
-positive: playful illustration of a heart-shaped cactus in a tiny pot, surrounded by love-themed objects, bright pastel colors, quirky and fun, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, unbalanced composition, blurry edges
----
-positive: surreal heart-shaped light beam piercing through clouds above a tranquil mountain lake, soft pinks and purples, calm and spiritual, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, harsh shadows, unclear composition
----
-positive: vector illustration of a cute dog holding a heart-shaped cookie in its mouth, surrounded by tiny flowers, soft pink and red hues, cheerful and playful, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, cluttered design, sharp lines
----
-positive: dreamy illustration of a couple floating through a sky filled with heart-shaped clouds, soft pastel colors like pink, lavender, and baby blue, whimsical and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, chaotic elements, unclear lines
----
-positive: elegant watercolor of a heart-shaped tree with blossoms, light pink and green tones, serene and natural, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, rough brushstrokes, too much detail
----
-positive: digital art of two lovebirds sitting on a heart-shaped swing, floating above a calm sea, soft pastel colors, peaceful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, blurry lines, cluttered background
----
-positive: modern vector design of a heart-shaped bicycle with a basket filled with flowers, vibrant red and yellow, whimsical and fresh, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, unbalanced composition, rough edges
----
-positive: surreal digital painting of a glowing heart surrounded by cascading petals, soft pinks and gold, dreamy and ethereal, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurry lines, cluttered background
----
-positive: minimalist illustration of a single heart-shaped balloon drifting upwards, against a simple blue background, soft and serene, 1:1 aspect ratio
-
-negative: text, watermark, busy background, harsh lines, bright lighting
----
-positive: retro-inspired 3D illustration of heart-shaped sunglasses with vibrant neon colors, playful and fun, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, blurry design, flat lighting
----
-positive: hand-drawn line art of a couple holding hands inside a heart-shaped frame, delicate lines with soft blush tones, intimate and loving, 1:1 aspect ratio
-
-negative: text, watermark, bold outlines, dull colors, busy details
----
-positive: abstract painting of heart-shaped waves crashing on the shore, using blue and red tones, dynamic and expressive, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough edges, overly busy composition
----
-positive: digital illustration of a stack of heart-shaped books with a cup of coffee, soft brown and red hues, cozy and heartwarming, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, too much detail, flat composition
----
-positive: playful 3D heart-shaped balloon animal, bright colors like red, pink, and yellow, whimsical and charming, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, unrefined design, unclear lines
----
-positive: abstract heart-shaped geometric design with vibrant blue and purple triangles, modern and dynamic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, overly busy, rough edges
----
-positive: watercolor painting of a heart-shaped rose, soft reds and greens with delicate brushstrokes, romantic and elegant, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, flat colors, unclear focus
----
-positive: charming digital painting of a heart-shaped treehouse nestled in a large tree, surrounded by tiny lights, warm golden tones, magical and cozy, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, too much detail, blurry edges
----
-positive: vector design of a love letter flying through the air with heart-shaped confetti, vibrant pink and red, celebratory and playful, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, flat design, chaotic background
----
-positive: surreal illustration of a heart-shaped moon shining down on a tranquil lake, soft blue and silver hues, serene and mystical, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, rough lines, cluttered design
----
-positive: modern 3D vector art of a heart-shaped crystal with glowing light beams, pastel gradients of pink, purple, and gold, elegant and futuristic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurry edges, unbalanced lighting
----
-positive: minimalistic design of two hands forming a heart shape with their fingers, soft pastel tones, peaceful and intimate, 1:1 aspect ratio
-
-negative: text, watermark, busy details, harsh lines, unbalanced composition
----
-positive: digital design of a rainbow of heart-shaped balloons floating in the sky, soft and vibrant colors, joyful and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, unclear background, too much detail
----
-positive: abstract painting of overlapping heart shapes with metallic gold accents, vibrant reds and blues, modern and sophisticated, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurry composition, too much detail
----
-positive: vector illustration of a heart-shaped origami crane, soft pastel hues like pink, lavender, and cream, delicate and artistic, 1:1 aspect ratio
-
-negative: text, watermark, bold colors, unrefined design, busy background
----
-positive: whimsical watercolor of a heart-shaped rainbow arching across a sky filled with clouds, soft pastels and gentle brush strokes, dreamy and light, 1:1 aspect ratio
-
-negative: text, watermark, harsh colors, overly detailed, dark tones
----
-positive: playful 3D vector design of a heart-shaped lollipop with colorful swirls, bright and fun, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, flat design, blurry lines
----
-positive: illustration of a heart-shaped puzzle with pieces being put together, warm reds and oranges, dynamic and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, cluttered design, rough edges
----
-positive: surreal image of a heart-shaped glass filled with liquid gold, glowing softly, vibrant and luxurious, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurry edges, rough texture
----
-positive: hand-drawn romantic doodles of heart-shaped balloons, flowers, and stars, in a soft watercolor palette, sweet and charming, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, dark colors, chaotic background
----
-positive: dynamic digital design of a glowing heart-shaped neon sign, vibrant pinks and blues, energetic and modern, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, too much detail, blurry composition
----
-positive: dreamy vector of a heart-shaped hot air balloon floating above a village, soft golden tones with a sunset backdrop, romantic and nostalgic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, flat design, blurry edges
----
-positive: abstract heart shape with geometric elements, metallic gold and black tones, bold and modern, 1:1 aspect ratio
-
-negative: text, watermark, pastel colors, overly soft design, unclear composition
----
-positive: vector art of two intertwined heart-shaped rings with a glowing effect, red and gold accents, elegant and symbolic, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, dull colors, flat design
----
-positive: modern minimalistic design of a heart-shaped fingerprint, soft gradients of pink and purple, artistic and subtle, 1:1 aspect ratio
-
-negative: text, watermark, busy background, too many details, hard shadows
----
-positive: abstract heart-shaped splash of paint with vivid red, blue, and yellow hues, expressive and bold, 1:1 aspect ratio
-
-negative: text, watermark, pastel tones, muted colors, clean lines
----
-positive: digital painting of a couple's silhouettes, hands forming a heart, sunset sky background with pink and orange hues, romantic and warm, 1:1 aspect ratio
-
-negative: text, watermark, harsh edges, dull colors, cluttered background
----
-positive: geometric heart pattern with intricate overlapping triangles and circles, vibrant colors like turquoise and magenta, contemporary and striking, 1:1 aspect ratio
-
-negative: text, watermark, soft hues, simple shapes, blurry lines
----
-positive: charming vector of a love letter in an envelope with heart-shaped confetti flying out, cheerful red and white tones, festive and playful, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, cluttered design, faded colors
----
-positive: watercolor painting of a heart-shaped seashell, gentle oceanic blues and sandy hues, peaceful and serene, 1:1 aspect ratio
-
-negative: text, watermark, bold lines, sharp contrasts, overly complex
----
-positive: futuristic heart-shaped hologram floating in the air with neon light reflections, high-tech style with cool blue and purple tones, sleek and modern, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, natural textures, flat surfaces
----
-positive: hand-drawn floral heart, with roses, tulips, and daisies delicately framing the edges, soft pastel shades, elegant and romantic, 1:1 aspect ratio
-
-negative: text, watermark, geometric shapes, hard edges, dark tones
----
-positive: 3D model of a glowing heart-shaped ice sculpture with a soft blue light emanating from within, cool tones with a shimmering texture, ethereal and cold, 1:1 aspect ratio
-
-negative: text, watermark, warm colors, blurry textures, solid background
----
-positive: digital vector of two birds flying together, with a heart-shaped ribbon tying them together, in shades of red, pink, and gold, romantic and symbolic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, empty space, rough edges
----
-positive: whimsical illustration of a hot air balloon shaped like a heart, floating above a peaceful countryside, light pink and soft purple hues, dreamy and lighthearted, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, chaotic design, too many elements
----
-positive: abstract art of a fractured heart with vibrant color shards breaking apart, energetic red and yellow tones, dramatic and dynamic, 1:1 aspect ratio
-
-negative: text, watermark, soft lines, dark hues, minimalist design
----
-positive: 3D rendered image of a heart-shaped lock and key, with intricate golden details, luxurious and romantic, 1:1 aspect ratio
-
-negative: text, watermark, blurry details, flat lighting, dull colors
----
-positive: digital painting of a heart-shaped cupcake with sprinkles, cute and playful design, soft pastel colors like pink, purple, and mint green, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, overly detailed, chaotic background
----
-positive: intricate lace design forming a heart shape, delicate white lace on a soft pastel background, elegant and refined, 1:1 aspect ratio
-
-negative: text, watermark, bold lines, harsh colors, solid background
----
-positive: abstract vector of two heart-shaped hands forming a love gesture, with colorful gradient lines in pink and blue, modern and playful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, intricate background, cluttered details
----
-positive: romantic 3D rendering of a heart-shaped jewel encased in a glowing golden frame, rich and luxurious hues, dramatic lighting, 1:1 aspect ratio
-
-negative: text, watermark, dull lighting, muted tones, rough textures
----
-positive: cute vector of two intertwined hearts with flowers and stars around them, soft pinks and gold accents, gentle and light, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, busy composition, harsh lines
----
-positive: stylized illustration of a heart-shaped coffee cup with steam rising in the shape of hearts, cozy and warm tones, intimate and loving, 1:1 aspect ratio
-
-negative: text, watermark, overly busy design, flat colors, too little detail
----
-positive: abstract geometric design of overlapping hearts, using vibrant neon colors like hot pink and electric blue, modern and dynamic, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, simple shapes, flat design
----
-positive: watercolor painting of a couple holding hands inside a heart-shaped window frame, sunset colors like pink and gold, romantic and serene, 1:1 aspect ratio
-
-negative: text, watermark, harsh colors, complex background, unclear lines
----
-positive: digital vector of heart-shaped musical notes floating in the air with sparkling effects, using shades of purple and gold, whimsical and uplifting, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, too many elements, busy background
----
-positive: 3D illustration of a heart-shaped cake with intricate frosting details, vibrant red and white, sweet and celebratory, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, minimal detail, flat texture
----
-positive: dreamy digital design of a heart-shaped moon illuminating a tranquil lake, soft blue tones and glimmering stars, peaceful and mystical, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, too much detail, harsh shadows
----
-positive: vector art of two heart-shaped balloons drifting in the sky with soft pastel gradient colors, light and airy, romantic and joyful, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, busy background, flat shapes
----
-positive: intricate line art of a heart made from vines and flowers, soft green and pink hues, natural and delicate, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, dull tones, overly complicated
----
-positive: stylized digital painting of a heart-shaped hot air balloon flying over a dreamy landscape, warm orange and yellow tones, whimsical and adventurous, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, complex background, static design
----
-positive: modern abstract artwork of heart-shaped figures overlapping with bold angular shapes, using shades of red, gold, and black, creative and striking, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, rough textures, soft lines
----
-positive: digital rendering of a glass heart with light reflections, glowing softly in warm colors like red and gold, elegant and shiny, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, blurry reflections, chaotic background
----
-positive: vector art of two intertwined hearts with a glowing effect, surrounded by colorful sparkles, bright reds, and golds, dynamic and radiant, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, overly simplistic design, blurry effects
----
-positive: watercolor painting of heart-shaped confetti floating in the air with soft pastel shades, playful and celebratory, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, harsh lines, cluttered design
----
-positive: hand-drawn minimalistic design of a heart-shaped paper crane, delicate lines and light shades of pink and cream, elegant and subtle, 1:1 aspect ratio
-
-negative: text, watermark, bold lines, complicated details, heavy contrast
----
-positive: stylized abstract illustration of heart-shaped leaves on tree branches, soft shades of green and red, peaceful and natural, 1:1 aspect ratio
-
-negative: text, watermark, harsh outlines, dull colors, busy design
----
-positive: vector art of heart-shaped puzzle pieces coming together, vibrant reds, and golds, symbolic and heartwarming, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, sharp edges, unbalanced composition
----
-positive: romantic 3D rendering of a pair of heart-shaped earrings with sparkling jewels, gold and red tones, luxurious and dazzling, 1:1 aspect ratio
-
-negative: text, watermark, flat textures, dull colors, muted lighting
----
-positive: intricate illustration of a heart-shaped lantern glowing softly in the night, surrounded by mist, with warm golden and red tones, magical and serene, 1:1 aspect ratio
-
-negative: text, watermark, bright colors, cluttered background, unrefined edges
----
-positive: surreal digital painting of a heart-shaped cloud floating in a blue sky, with pastel pink and purple hues, dreamy and soft, 1:1 aspect ratio
-
-negative: text, watermark, harsh contrasts, too much detail, dark colors
----
-positive: whimsical digital design of two heart-shaped ice cream cones, with colorful sprinkles and vibrant pinks and blues, fun and sweet, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, simple shapes, dull details
----
-positive: 3D abstract art of a heart-shaped gemstone floating in space, glowing with multi-colored lights, dynamic and futuristic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, flat design, blurry effects
----
-positive: vector design of a heart-shaped clock with intricate gears, golden hues with hints of red, vintage and romantic, 1:1 aspect ratio
-
-negative: text, watermark, bold colors, unrefined details, muted lighting
----
-positive: whimsical watercolor of a heart-shaped hot air balloon surrounded by fluffy clouds, soft blues and pinks, lighthearted and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, bold colors, too busy, harsh edges
----
-positive: cute hand-drawn illustration of heart-shaped clouds raining down little hearts, soft pastel shades, playful and fun, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, overly detailed, flat shapes
----
-positive: minimalistic digital design of a heart-shaped path leading into a sunset, warm orange and red tones, peaceful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, too many colors, sharp contrasts, cluttered design
----
-positive: stylized 3D heart-shaped lightbulb glowing brightly, with vibrant pink and yellow tones, modern and energetic, 1:1 aspect ratio
-
-negative: text, watermark, dull lighting, harsh lines, unbalanced design
----
-positive: vector illustration of a love-filled heart-shaped balloon floating above a cityscape at sunset, soft pinks and oranges, dreamy and vibrant, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, busy background, rough textures
----
-positive: digital painting of a heart-shaped rainbow arching across a tranquil landscape, pastel hues of blue and pink, serene and joyful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unbalanced elements, blurred edges
----
-positive: abstract heart shapes with bold strokes and vivid splashes of colors, blending red, blue, and yellow, artistic and energetic, 1:1 aspect ratio
-
-negative: text, watermark, soft tones, too detailed, flat design
----
-positive: romantic illustration of a heart-shaped star glowing brightly in the night sky, with soft purple and silver hues, magical and serene, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, busy background, unclear focus
----
-positive: 3D art of heart-shaped balloons rising above a lush garden, vibrant pinks, purples, and greens, light and joyful, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, flat textures, sharp edges
----
-positive: detailed digital design of heart-shaped leaves cascading from a tree, with autumn colors, red and orange tones, natural and romantic, 1:1 aspect ratio
-
-negative: text, watermark, soft lines, dull colors, overly simple design
----
-positive: surreal illustration of a glowing heart-shaped sun over a peaceful mountain range, soft golds and pinks, tranquil and warm, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, too many details, rough lines
----
-positive: abstract 3D illustration of heart-shaped metallic surfaces reflecting light, cool shades of silver, gold, and bronze, futuristic and sleek, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, busy elements, unclear texture
----
-positive: whimsical digital art of a heart-shaped teacup with steam rising in the shape of hearts, soft blue and pink tones, cozy and cute, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, sharp lines, cluttered background
----
-positive: hand-painted design of a heart-shaped tree with vibrant blossoms, gentle pink and green hues, fresh and natural, 1:1 aspect ratio
-
-negative: text, watermark, too much detail, dark background, harsh outlines
----
-positive: playful vector of a heart-shaped robot with glowing eyes, futuristic and cute, in vibrant red and blue tones, fun and unique, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, too much detail, flat background
----
-positive: surreal digital painting of a heart-shaped nebula in the night sky, glowing reds, blues, and purples, otherworldly and mystical, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, too many stars, overly intricate
----
-positive: vector design of a heart-shaped compass with intricate details, warm shades of red and gold, symbolic and adventurous, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, simple background, rough edges
----
-positive: minimalist vector art of a heart-shaped dot in the center, soft pastel background with abstract lines, modern and calming, 1:1 aspect ratio
-
-negative: text, watermark, busy design, overly dark, too many shapes
----
-positive: vintage-inspired illustration of a heart-shaped frame with old-fashioned roses, soft red and green hues, elegant and nostalgic, 1:1 aspect ratio
-
-negative: text, watermark, sharp lines, flat tones, modern elements
----
-positive: 3D illustration of two heart-shaped balloons intertwined in the air, with soft purple and gold reflections, romantic and playful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, busy background, flat textures
----
-positive: abstract design of heart-shaped light rays radiating from a central point, glowing in warm hues of red, orange, and pink, energetic and vibrant, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, soft edges, dark background
----
-positive: minimalist design of a single heart-shaped pebble on a soft sandy beach with a glowing sunset background, peaceful and tranquil, 1:1 aspect ratio
-
-negative: text, watermark, bright colors, complex background, harsh lines
----
-positive: vector art of a heart-shaped city skyline at night, glowing windows in vibrant shades of purple and pink, romantic and urban, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, too many elements, dark tones
----
-positive: elegant watercolor painting of a couple's hand holding a heart-shaped key, soft pink and gold tones, symbolic and romantic, 1:1 aspect ratio
-
-negative: text, watermark, harsh contrasts, busy background, abstract elements
----
-positive: 3D rendering of a glowing heart-shaped planet floating in space, with cosmic lights and pinkish hues, dreamy and futuristic, 1:1 aspect ratio
-
-negative: text, watermark, muted tones, flat design, overly complex background
----
-positive: stylized illustration of a heart-shaped garden with blooming flowers, in shades of green, red, and yellow, fresh and vibrant, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, too many details, cluttered design
----
-positive: geometric heart-shaped design made of angular shapes in shades of blue, gold, and white, modern and bold, 1:1 aspect ratio
-
-negative: text, watermark, soft colors, overly intricate design, muted tones
----
-positive: watercolor illustration of a heart-shaped tree with branches forming the outline of two lovers, soft pastel colors, romantic and dreamy, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, too many elements, dark shadows
----
-positive: digital painting of a glowing heart-shaped gemstone in a mystical forest, with beams of light filtering through trees, magical and serene, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, flat textures, chaotic background
----
-positive: stylized 3D model of a heart-shaped ice cube melting in a glass of pink lemonade, fresh and playful, 1:1 aspect ratio
-
-negative: text, watermark, dull tones, overcomplicated design, static effect
----
-positive: vector art of a heart-shaped constellation in the night sky, connected by sparkling lines, mystical and romantic, 1:1 aspect ratio
-
-negative: text, watermark, overly bright, busy stars, dark background
----
-positive: hand-drawn illustration of a heart-shaped bicycle with a basket full of flowers, soft green and pink tones, whimsical and cheerful, 1:1 aspect ratio
-
-negative: text, watermark, harsh outlines, dull colors, busy background
----
-positive: vintage-inspired postcard of two heart-shaped birds flying towards each other, soft pastel gradients, romantic and nostalgic, 1:1 aspect ratio
-
-negative: text, watermark, sharp contrasts, modern elements, dull lines
----
-positive: 3D digital artwork of a heart-shaped lantern floating in a dark sky with glowing lights, magical and enchanting, 1:1 aspect ratio
-
-negative: text, watermark, too much detail, sharp edges, overuse of dark colors
----
-positive: stylized flat design of a heart-shaped compass with hand-drawn arrows pointing in different directions, warm orange and red tones, symbolic and adventurous, 1:1 aspect ratio
-
-negative: text, watermark, busy elements, muted colors, too minimalistic
----
-positive: vector illustration of a heart-shaped cup of coffee with steam forming a love symbol, cozy and inviting, 1:1 aspect ratio
-
-negative: text, watermark, overly simplistic, busy background, dull colors
----
-positive: 3D rendering of a heart-shaped balloon floating over a snowy landscape with sparkling stars, soft pink and white hues, peaceful and magical, 1:1 aspect ratio
-
-negative: text, watermark, harsh lines, muted colors, cluttered sky
----
-positive: surreal painting of a heart-shaped waterfall flowing into a serene lake with soft purple and blue colors, dreamy and tranquil, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, busy landscape, sharp lines
----
-positive: vector art of two heart-shaped puzzle pieces fitting together against a light background, red and gold tones, warm and symbolic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, unrefined details, busy composition
----
-positive: minimalist illustration of a heart-shaped balloon being released into the sky with soft blue and white tones, free-spirited and hopeful, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, complex background, harsh edges
----
-positive: hand-drawn illustration of a heart-shaped map with paths leading to romantic destinations, soft earth tones, adventurous and loving, 1:1 aspect ratio
-
-negative: text, watermark, muted colors, busy design, harsh lines
----
-positive: 3D design of heart-shaped raindrops falling from a cloud, surrounded by vibrant rainbows, fresh and cheerful, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, busy elements, muted contrast
----
-positive: digital painting of a heart-shaped lighthouse guiding ships at sea with glowing lights, warm golden tones, serene and symbolic, 1:1 aspect ratio
-
-negative: text, watermark, overly complicated design, flat elements, harsh lighting
----
-positive: geometric design of heart-shaped patterns overlapping in vibrant colors like red, pink, and gold, bold and creative, 1:1 aspect ratio
-
-negative: text, watermark, soft tones, complex lines, minimal space
----
-positive: watercolor illustration of heart-shaped petals floating on water, soft shades of pink, red, and white, peaceful and calming, 1:1 aspect ratio
-
-negative: text, watermark, harsh outlines, dark colors, complex design
----
-positive: hand-drawn doodles of heart-shaped arrows, love letters, and roses on a textured background, playful and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, busy composition, flat design
----
-positive: 3D rendering of a heart-shaped clock with soft glowing hands, set against a romantic backdrop, warm hues of gold and pink, elegant and timeless, 1:1 aspect ratio
-
-negative: text, watermark, dark colors, sharp lines, too many details
----
-positive: digital design of a heart-shaped snowflake with intricate patterns, glowing softly against a dark background, elegant and wintery, 1:1 aspect ratio
-
-negative: text, watermark, flat shapes, harsh contrasts, muted tones
----
-positive: watercolor painting of a couple forming a heart with their hands in front of a glowing sunset, romantic and peaceful, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, busy background, unclear focus
----
-positive: 3D rendering of heart-shaped cookies with icing and sprinkles on a delicate lace tablecloth, soft pink and white hues, sweet and cozy, 1:1 aspect ratio
-
-negative: text, watermark, dark tones, cluttered background, sharp edges
----
-positive: digital painting of two heart-shaped butterflies fluttering around a vibrant floral garden, in shades of pink, red, and green, lively and romantic, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, flat textures, overly complex design
----
-positive: hand-painted watercolor of heart-shaped balloons floating over a sunset horizon, soft and dreamy with soft pastels, 1:1 aspect ratio
-
-negative: text, watermark, harsh colors, busy design, flat lines
----
-positive: minimalist illustration of two heart-shaped clouds merging in the sky, soft pastel gradients, peaceful and symbolic, 1:1 aspect ratio
-
-negative: text, watermark, harsh outlines, complex background, dark tones
----
-positive: vector design of a heart-shaped gift box with a sparkling ribbon and roses around it, modern and elegant, warm tones of gold and red, 1:1 aspect ratio
-
-negative: text, watermark, dull colors, busy elements, sharp contrasts
----
-positive: 3D digital rendering of a heart-shaped ice sculpture illuminated by soft, glowing lights, romantic and enchanting, 1:1 aspect ratio
+Prompt 1
+Positive:
+"A natural design featuring a lush background of vibrant green leaves with sunlight filtering through. A clear, softly textured space for text is centrally located, blending seamlessly into the organic theme."
 
-negative: text, watermark, dark tones, complex background, too much detail
----
-positive: illustration of a heart-shaped bookmark resting on an open book with a rose, soft vintage colors, romantic and nostalgic, 1:1 aspect ratio
+Negative:
+"Avoid overly dark shadows, tangled branches, or messy arrangements that obscure the text area. No unnatural or artificial colors that break the natural feel."
 
-negative: text, watermark, harsh shadows, overly busy design, sharp lines
----
-positive: stylized illustration of a heart-shaped lantern lighting up a dark pathway surrounded by trees, warm orange and red hues, peaceful and inviting, 1:1 aspect ratio
+Prompt 2
+Positive:
+"A tranquil beach scene with a sandy foreground and a calm ocean backdrop under a clear blue sky. A subtle, clean area for text is integrated into the sand or sky."
 
-negative: text, watermark, too many elements, dull tones, busy background
----
-positive: 3D digital art of a heart-shaped musical note surrounded by floating love symbols, soft purples and pinks, dreamy and harmonious, 1:1 aspect ratio
+Negative:
+"No crowded objects like beach chairs or umbrellas. Avoid stormy weather, dark clouds, or elements that detract from the serene atmosphere."
 
-negative: text, watermark, dark background, overly complex design, muted colors
----
-positive: watercolor painting of a heart-shaped hot air balloon soaring above a quaint village at sunset, gentle pinks, oranges, and purples, romantic and dreamy, 1:1 aspect ratio
+Prompt 3
+Positive:
+"An urban design featuring a minimalist concrete wall with a sleek texture. A designated blank space for text is framed naturally by the wall's clean lines and lighting effects."
 
-negative: text, watermark, busy sky, dark tones, unrefined details
----
-positive: vector art of a heart-shaped compass rose surrounded by soft, glowing lights and delicate patterns, romantic and symbolic, 1:1 aspect ratio
+Negative:
+"Avoid graffiti, cracks, or uneven textures on the wall. No distracting objects like pipes, signs, or overly dark shadows."
 
-negative: text, watermark, harsh lines, dull colors, busy background
----
-positive: stylized heart-shaped lock and key illustration, with vibrant pink and gold tones, whimsical and loving, 1:1 aspect ratio
+Prompt 4
+Positive:
+"A dynamic road scene with a straight asphalt street stretching into the horizon. The text space is clearly visible, placed over a soft glow or in the sky above the road."
 
-negative: text, watermark, muted tones, unbalanced design, too many details
----
-positive: digital illustration of two heart-shaped fish swimming together in a sea of soft blue waves, peaceful and serene, 1:1 aspect ratio
+Negative:
+"No heavy traffic, street signs, or distracting elements like power lines. Avoid cluttered or overly dark road textures."
 
-negative: text, watermark, dull colors, harsh lines, busy background
----
-positive: abstract design of overlapping heart shapes with different textures and patterns in shades of pink, red, and gold, modern and bold, 1:1 aspect ratio
+Prompt 5
+Positive:
+"A serene forest floor with scattered fallen leaves and a soft, natural light filtering in. The space for text is subtly carved into a clear patch of ground or highlighted by the lighting."
 
-negative: text, watermark, simple shapes, too many elements, flat design
----
-positive: hand-drawn illustration of a heart-shaped book with love letters spilling out, soft brown and red tones, nostalgic and romantic, 1:1 aspect ratio
+Negative:
+"No overly thick vegetation or chaotic arrangements of leaves. Avoid harsh lighting contrasts or unnatural colors."
 
-negative: text, watermark, dark colors, overcomplicated design, sharp edges
----
-positive: 3D art of two heart-shaped clouds touching in a soft, glowing sky, with gentle pink and purple tones, dreamy and peaceful, 1:1 aspect ratio
+Prompt 6
+Positive:
+"A cozy indoor scene featuring a blank wooden table in a softly lit room. A clean space for text is placed naturally on the table surface."
 
-negative: text, watermark, harsh contrasts, dark background, overly detailed
----
-positive: watercolor of heart-shaped leaves gently falling from a tree, soft green, red, and orange hues, autumn romance, 1:1 aspect ratio
+Negative:
+"No messy items like dishes, papers, or personal belongings. Avoid overly dark lighting or distracting wall decorations."
 
-negative: text, watermark, harsh lines, overly busy design, dull colors
----
-positive: digital art of a glowing heart-shaped crystal surrounded by floating sparkling lights, warm golden tones, magical and enchanting, 1:1 aspect ratio
+Prompt 7
+Positive:
+"A minimalist abstract background with soft gradients in pastel tones. The text space is prominently clear in the center, framed by subtle geometric shapes."
 
-negative: text, watermark, muted colors, complex shapes, dark backdrop
----
-positive: minimalist 3D rendering of heart-shaped flowers with soft glowing lights, bright and airy, symbolic and romantic, 1:1 aspect ratio
+Negative:
+"No sharp edges, harsh contrasts, or busy patterns. Avoid dull or muddy color schemes that detract from the clarity."
 
-negative: text, watermark, overly dark colors, busy elements, unrefined details
----
-positive: heart-shaped fireworks exploding in the night sky, surrounded by sparkling trails of light, vibrant and festive, 1:1 aspect ratio
+Prompt 8
+Positive:
+"A tranquil mountain landscape with soft clouds and a clear sky. A clean, open area for text is naturally embedded in the sky or at the mountain's base."
 
-negative: text, watermark, dull tones, too many elements, flat colors
----
-positive: 3D digital painting of a glowing heart-shaped pendant resting on soft velvet fabric, glowing softly in shades of pink and gold, elegant and romantic, 1:1 aspect ratio
+Negative:
+"No dense fog, busy tree lines, or overly complex details. Avoid washed-out colors or chaotic compositions."
 
-negative: text, watermark, dull background, busy elements, flat design
----
-positive: vector art of heart-shaped puzzle pieces floating in the air, connected by glowing threads of light, romantic and symbolic, 1:1 aspect ratio
+Prompt 9
+Positive:
+"A modern brick wall with clean, evenly spaced bricks in neutral tones. The text space is prominently placed in a clear section of the wall."
 
-negative: text, watermark, dull tones, overly complex shapes, dark background
----
-positive: illustration of a heart-shaped rainbow with soft pastel colors arching over a peaceful landscape, dreamy and serene, 1:1 aspect ratio
+Negative:
+"No graffiti, cracks, or uneven brick arrangements. Avoid cluttered or overly dark textures."
 
-negative: text, watermark, busy elements, muted colors, flat lines
----
-positive: 3D illustration of heart-shaped gears turning together, with a soft glow around them, in golden tones, harmonious and romantic, 1:1 aspect ratio
+Prompt 10
+Positive:
+"A serene desert scene with soft dunes and a bright, clear sky. A smooth, open area for text is positioned within the sky or on a flat section of the dunes."
 
-negative: text, watermark, overly dark, complex background, sharp contrasts
----
-positive: watercolor painting of a heart-shaped dreamcatcher with colorful feathers hanging, soft pastels, peaceful and symbolic, 1:1 aspect ratio
+Negative:
+"No sandstorms, overly sharp dune textures, or busy vegetation. Avoid dull or lifeless colors."
 
-negative: text, watermark, dark tones, busy design, harsh edges
----
-positive: digital art of heart-shaped footprints in soft, glowing sand leading to a glowing sunset, warm tones, romantic and peaceful, 1:1 aspect ratio
+สนใจให้ผมสร้าง prompt ต่อจนถึงครบ 30 ตัวเลยไหมครับ? หรืออยากให้ปรับแนวทางตรงไหนเพิ่มเติม เช่น สไตล์หรือธีมที่เฉพาะเจาะจง?
 
-negative: text, watermark, dull background, busy elements, unrefined lines
----
-positive: stylized heart-shaped keyhole with a glowing heart-shaped light peeking through, warm tones, symbolic and romantic, 1:1 aspect ratio
 
-negative: text, watermark, dull colors, overly complicated background, flat textures
----
-positive: 3D heart-shaped cloud floating in a dreamy sky with a soft glowing halo, light blue and pink hues, ethereal and serene, 1:1 aspect ratio
 
-negative: text, watermark, overly complex background, dark colors, muted tones
----
-positive: hand-drawn illustration of a heart-shaped map with paths drawn in sparkles leading to love, vintage tones, adventurous and romantic, 1:1 aspect ratio
 
-negative: text, watermark, dull elements, busy design, harsh lines
----
-positive: watercolor illustration of a heart-shaped flame burning brightly in a darkened room, warm and inviting tones, symbolic and romantic, 1:1 aspect ratio
 
-negative: text, watermark, flat design, dark background, too many details
----
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+จัดไปครับ! มาต่อด้วยอีก 20 Prompt โดยเพิ่มความหลากหลายของพื้นหลังและสไตล์ เพื่อให้เหมาะสำหรับ FluxNF4 และสร้างงานได้แบบมีเอกลักษณ์!
+
+Prompt 11
+Positive:
+"A cozy coffee shop scene with a wooden counter in the foreground and a softly blurred background of shelves and mugs. A clean space for text is centered on the counter."
+
+Negative:
+"Avoid crowded or messy counters, overly sharp details in the background, or distracting objects like cluttered utensils."
+
+Prompt 12
+Positive:
+"A futuristic sci-fi landscape featuring a glowing city skyline with sleek metallic buildings. The text space is a clean, illuminated area in the sky or on a floating panel."
+
+Negative:
+"No overly busy cityscapes, distracting flying objects, or overly harsh neon colors. Avoid uneven lighting or chaotic elements."
+
+Prompt 13
+Positive:
+"A serene snowy landscape with untouched white snow stretching into the distance under a soft pastel sky. The text space is a clean, open area in the snowfield or sky."
+
+Negative:
+"No overly dark shadows, dense tree lines, or heavy snowfall. Avoid cluttered footprints or chaotic compositions."
+
+Prompt 14
+Positive:
+"A vibrant tropical rainforest with a cascading waterfall in the background and lush greenery. A smooth, clear space for text is integrated into the mist or the foreground."
+
+Negative:
+"Avoid overly dense vegetation, muddy water, or overly dark shadows. No distracting wildlife or busy details."
+
+Prompt 15
+Positive:
+"A sleek black-and-white abstract pattern featuring soft curves and gradients. A well-defined, clean text space is placed at the center with a balanced composition."
+
+Negative:
+"No sharp contrasts, jagged edges, or overly complex patterns. Avoid dull or muddy tones that obscure the text area."
+
+Prompt 16
+Positive:
+"A bustling city street at night, with vibrant neon signs and reflections on wet pavement. A clear text space is positioned in the middle of a glowing signboard."
+
+Negative:
+"No excessive crowds, clashing neon colors, or overly blurred reflections. Avoid chaotic street details that clutter the design."
+
+Prompt 17
+Positive:
+"A tranquil meadow with soft, rolling hills and colorful wildflowers under a bright blue sky. A natural text space is positioned in the sky or on a clear patch of grass."
+
+Negative:
+"No overly dense flower arrangements, harsh shadows, or overly busy backgrounds. Avoid dull or muted colors."
+
+Prompt 18
+Positive:
+"A clean white marble surface with elegant, subtle veins. A smooth, defined text space is centered on the marble, giving a sophisticated and luxurious feel."
+
+Negative:
+"No cracks, dirt, or uneven textures on the marble. Avoid overly busy or distracting details."
+
+Prompt 19
+Positive:
+"A calm sunrise scene over a quiet lake with soft reflections on the water. The text space is positioned within the glowing sky or the still water."
+
+Negative:
+"No heavy fog, cluttered tree lines, or chaotic reflections. Avoid dull or lifeless colors."
+
+Prompt 20
+Positive:
+"A minimalist workspace scene with a clean desk, a blank notebook, and soft lighting. The text space is placed on the open notebook or in the negative space above the desk."
+
+Negative:
+"No cluttered desks, distracting items, or overly dark lighting. Avoid messy or disorganized layouts."
+
+Prompt 21
+Positive:
+"A fantasy forest illuminated by glowing mushrooms and soft magical lights. The text space is naturally integrated into the glow or a patch of clear forest floor."
+
+Negative:
+"No overly busy vegetation, harsh contrasts, or unnatural lighting. Avoid chaotic arrangements of glowing elements."
+
+Prompt 22
+Positive:
+"A vibrant carnival scene with colorful tents and string lights at dusk. A clean text space is integrated into a glowing banner or the evening sky."
+
+Negative:
+"No overly crowded scenes, harsh lighting, or distracting motion blur. Avoid dull or muted colors."
+
+Prompt 23
+Positive:
+"An elegant vintage-inspired background featuring aged parchment with subtle patterns. The text space is a clean, open area framed by ornate borders."
+
+Negative:
+"No overly dark stains, heavy textures, or distracting details. Avoid excessive aging effects that obscure the text."
+
+Prompt 24
+Positive:
+"A dynamic space scene with vibrant nebulas, glowing stars, and a clear cosmic void for text placement. The colors are vivid and harmonized."
+
+Negative:
+"No overly dense star fields, harsh contrasts, or chaotic compositions. Avoid dull or lifeless colors."
+
+Prompt 25
+Positive:
+"A calm desert oasis with a small pond reflecting tall palm trees under a bright blue sky. The text space is clean and integrated into the water or the sky above."
+
+Negative:
+"No overly crowded trees, dark shadows, or chaotic compositions. Avoid dull or unnatural colors."
+
+Prompt 26
+Positive:
+"A dynamic sports field scene at sunset, with soft lighting and clean lines marking the grass. A clear text space is positioned in the sky or an open area of the field."
+
+Negative:
+"No heavy crowds, harsh shadows, or overly busy backgrounds. Avoid distracting elements like cluttered goalposts."
+
+Prompt 27
+Positive:
+"An artistic ink splatter design on a clean white background. The text space is a defined blank area within the composition."
+
+Negative:
+"No overly dense or chaotic splatters. Avoid harsh contrasts or clashing colors."
+
+Prompt 28
+Positive:
+"A futuristic data network design with glowing nodes and smooth connections on a dark background. The text space is a clear glowing panel within the network."
+
+Negative:
+"No overly busy networks, chaotic node arrangements, or dull colors. Avoid harsh lighting contrasts."
+
+Prompt 29
+Positive:
+"A dreamy cloudscape with soft, fluffy clouds and pastel gradients. The text space is a clear, glowing area within the sky."
+
+Negative:
+"No overly dense or dark clouds. Avoid harsh contrasts or cluttered compositions."
+
+Prompt 30
+Positive:
+"A clean, modern geometric pattern featuring soft gradients and smooth transitions. A clear text space is positioned centrally with a balanced composition."
+
+Negative:
+"No jagged edges, clashing colors, or overly complex patterns. Avoid dull or flat tones."
+
+ครบ 30 Prompt เรียบร้อย! สนใจให้ผมทำเพิ่มอีก หรือมีแนวทางอื่นที่อยากปรับเปลี่ยนบอกได้เลยครับ!
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+มาเริ่มต่อกันอีก 30 Prompt เลยครับ เพิ่มความหลากหลายของพื้นหลังและสไตล์ให้เหมาะกับ FluxNF4!
+
+Prompt 31
+Positive:
+"A colorful street art wall featuring vibrant graffiti with clean, bold strokes. A clear space for text is framed naturally within the graffiti design."
+
+Negative:
+"Avoid overly chaotic or crowded designs. No faded colors, peeling paint, or messy textures that obscure the text area."
+
+Prompt 32
+Positive:
+"A futuristic space station interior with sleek metallic walls and glowing panels. The text space is integrated naturally into one of the glowing panels."
+
+Negative:
+"No cluttered machinery, uneven lighting, or overly reflective surfaces. Avoid dull or muted color schemes."
+
+Prompt 33
+Positive:
+"A peaceful garden scene with a koi pond surrounded by lush greenery and blooming flowers. The text space is a clear area in the water or on a stone path nearby."
+
+Negative:
+"Avoid overly dense vegetation, distracting fish movements, or cluttered flower arrangements."
+
+Prompt 34
+Positive:
+"A dramatic desert canyon with tall red rock formations and a bright blue sky. A clean text space is positioned naturally in the open sky."
+
+Negative:
+"No heavy shadows, busy vegetation, or overly dark tones. Avoid chaotic compositions or dull colors."
+
+Prompt 35
+Positive:
+"An elegant modern living room with clean furniture and minimal decor. A defined text space is centered on a blank wall or a smooth coffee table surface."
+
+Negative:
+"No cluttered furniture, distracting objects, or overly dark lighting. Avoid messy or unbalanced layouts."
+
+Prompt 36
+Positive:
+"A soft bokeh background with warm, glowing lights in subtle pastel colors. A clear text space is placed in the central area, free from any light interference."
+
+Negative:
+"No sharp or overly bright lights. Avoid dark or overly busy patterns that detract from the softness."
+
+Prompt 37
+Positive:
+"A clean workspace featuring a laptop on a wooden desk with a blank notebook beside it. The text space is clearly integrated into the screen or the notebook."
+
+Negative:
+"No cluttered desk accessories, overly dark lighting, or distracting background details."
+
+Prompt 38
+Positive:
+"A mystical cave illuminated by glowing crystals in shades of blue and purple. The text space is positioned naturally on a smooth stone wall or in the glowing light."
+
+Negative:
+"No overly dark shadows, busy crystal arrangements, or harsh lighting contrasts."
+
+Prompt 39
+Positive:
+"A warm autumn park scene with golden leaves covering the ground and sunlight streaming through trees. A clean text space is positioned in a patch of sunlight or the clear sky."
+
+Negative:
+"Avoid overly dense tree arrangements, dark shadows, or cluttered leaf patterns."
+
+Prompt 40
+Positive:
+"A stylish vintage typewriter on a wooden desk with a blank sheet of paper in the typewriter. The text space is the blank paper, ready for customization."
+
+Negative:
+"No cluttered desk surroundings, distracting objects, or poor lighting. Avoid worn-out or overly aged textures."
+
+Prompt 41
+Positive:
+"A bustling cityscape at dawn with tall buildings reflecting soft sunlight. The text space is placed naturally in the open sky or on a clear building surface."
+
+Negative:
+"No heavy traffic, overly dark shadows, or distracting elements like wires or poles."
+
+Prompt 42
+Positive:
+"A luxurious marble hallway with elegant pillars and soft lighting. The text space is positioned centrally on a smooth wall or the floor."
+
+Negative:
+"No cracks, overly busy details, or harsh lighting. Avoid dull or uneven textures."
+
+Prompt 43
+Positive:
+"A creative splash of colorful paint on a clean white background. The text space is clearly defined in a blank area within the composition."
+
+Negative:
+"No overly dense or chaotic paint splashes. Avoid dull colors or harsh edges."
+
+Prompt 44
+Positive:
+"A tranquil lake surrounded by tall pine trees, with the evening sky reflecting softly on the water. A clean text space is integrated into the reflection or the open sky."
+
+Negative:
+"No heavy fog, overly dense tree lines, or distracting details in the water."
+
+Prompt 45
+Positive:
+"A futuristic abstract pattern with glowing holographic lines and soft gradients. The text space is a defined glowing panel or a clear central area."
+
+Negative:
+"No overly complex line arrangements, harsh lighting, or dull color schemes."
+
+Prompt 46
+Positive:
+"A sunny sunflower field with bright yellow flowers stretching into the distance under a clear blue sky. The text space is integrated naturally into the open sky."
+
+Negative:
+"No overly dense flower arrangements, dark shadows, or dull tones."
+
+Prompt 47
+Positive:
+"A cozy kitchen counter with a blank cutting board placed beside fresh fruits. The text space is centered on the cutting board or an open counter area."
+
+Negative:
+"No messy arrangements, cluttered objects, or overly dark lighting."
+
+Prompt 48
+Positive:
+"A dreamy galaxy with swirling stars and glowing nebulas in vivid colors. The text space is positioned in a clear void within the composition."
+
+Negative:
+"No overly dense star fields, chaotic patterns, or dull tones."
+
+Prompt 49
+Positive:
+"A tranquil river scene with stepping stones and soft ripples on the water. The text space is placed naturally in the clear water or on a smooth stone."
+
+Negative:
+"No overly busy vegetation, distracting reflections, or chaotic arrangements of stones."
+
+Prompt 50
+Positive:
+"A bright carnival scene with colorful balloons floating in a clear blue sky. A clean text space is integrated into the sky or a blank banner."
+
+Negative:
+"No overly crowded arrangements, distracting objects, or harsh shadows."
+
+สนใจให้ทำต่อไปอีก 30 Prompt เลยไหมครับ หรืออยากได้แนวไหนเพิ่มเติมบอกมาได้เลย! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ได้เลยครับ! มาต่อกันอีก 30 Prompt ให้หลากหลายและไม่ซ้ำกันในทุกสไตล์เพื่อความสดใหม่!
+
+Prompt 51
+Positive:
+"A minimalistic wave pattern in soft blue and white tones, flowing smoothly across the image. A clean text space is positioned in the center, surrounded by the wave design."
+
+Negative:
+"No harsh edges, overly complex wave forms, or clashing colors. Avoid excessive noise in the background."
+
+Prompt 52
+Positive:
+"A dramatic mountain peak covered in snow with sunlight illuminating the summit. A clean text space is placed naturally in the open sky above the mountain."
+
+Negative:
+"Avoid dense clouds, overly dark shadows, or busy tree lines near the base."
+
+Prompt 53
+Positive:
+"A creative chalkboard design with hand-drawn doodles and a blank, clear central area for text. The chalk lines are clean and well-defined."
+
+Negative:
+"No smudged chalk, uneven textures, or overly cluttered doodles."
+
+Prompt 54
+Positive:
+"A close-up shot of raindrops on a smooth glass surface with a blurred cityscape in the background. The text space is integrated into the clear areas of the glass."
+
+Negative:
+"No overly busy reflections, heavy rain streaks, or dark tones."
+
+Prompt 55
+Positive:
+"A modern, industrial-style interior with exposed brick walls and metal accents. The text space is placed on a clean, smooth section of the wall."
+
+Negative:
+"No cracks, graffiti, or cluttered furniture arrangements."
+
+Prompt 56
+Positive:
+"A lush tropical beach with turquoise waves gently lapping the shore. A smooth, clean text space is integrated into the sand or the open sky."
+
+Negative:
+"No crowded beach items, seaweed, or overly harsh lighting."
+
+Prompt 57
+Positive:
+"A colorful underwater scene with coral reefs and fish swimming gracefully. A clean text space is placed within the clear water or a smooth sandy bottom."
+
+Negative:
+"No overly crowded fish, murky water, or distracting plant life."
+
+Prompt 58
+Positive:
+"A sleek metallic surface with a brushed steel texture and soft lighting highlights. The text space is a clean rectangular area in the center."
+
+Negative:
+"No scratches, dents, or uneven textures. Avoid overly reflective surfaces."
+
+Prompt 59
+Positive:
+"A serene rural landscape with a winding dirt path cutting through golden wheat fields under a vibrant sunset. The text space is positioned in the sky or the path."
+
+Negative:
+"Avoid overly dense vegetation, dull colors, or cluttered details near the path."
+
+Prompt 60
+Positive:
+"A bold, colorful geometric pattern with clean lines and overlapping shapes. The text space is a defined blank area in the center of the composition."
+
+Negative:
+"No overly complex arrangements, clashing colors, or uneven spacing."
+
+Prompt 61
+Positive:
+"A futuristic vehicle dashboard with glowing holographic displays and sleek controls. The text space is integrated into a blank panel or screen."
+
+Negative:
+"No overly busy displays, harsh lighting, or cluttered designs."
+
+Prompt 62
+Positive:
+"A peaceful zen garden with raked sand patterns and smooth stones. A clean text space is placed within the smooth sand or a central stone."
+
+Negative:
+"No uneven sand patterns, excessive vegetation, or cluttered arrangements."
+
+Prompt 63
+Positive:
+"A vibrant carnival parade with colorful floats and balloons filling the scene. A clear text space is naturally integrated into a blank banner or open sky."
+
+Negative:
+"No overly crowded floats, dark shadows, or distracting elements."
+
+Prompt 64
+Positive:
+"A rustic wooden texture with subtle grain patterns and soft, warm tones. The text space is a clean, smooth area within the woodgrain."
+
+Negative:
+"No cracks, splinters, or overly rough textures."
+
+Prompt 65
+Positive:
+"An enchanted forest with glowing fireflies and soft moonlight filtering through the trees. A clear text space is positioned in an open patch of ground or misty light."
+
+Negative:
+"No overly dark shadows, dense foliage, or chaotic firefly arrangements."
+
+Prompt 66
+Positive:
+"A close-up shot of soft fabric folds in pastel tones with a smooth texture. The text space is a clean area in the center of the fabric."
+
+Negative:
+"No harsh creases, stains, or overly busy patterns."
+
+Prompt 67
+Positive:
+"A dramatic volcanic landscape with glowing lava streams and dark rocks. The text space is a clean, smoke-free area in the sky or a flat rock surface."
+
+Negative:
+"No excessive smoke, overly dark tones, or chaotic lava flows."
+
+Prompt 68
+Positive:
+"A serene country road lined with blooming cherry blossom trees. The text space is positioned in the sky above or an open stretch of the road."
+
+Negative:
+"No overly crowded tree arrangements, dark shadows, or dull tones."
+
+Prompt 69
+Positive:
+"An abstract watercolor painting with soft gradients and flowing colors. A clean text space is left in the center, surrounded by the artistic flow."
+
+Negative:
+"No harsh brushstrokes, clashing colors, or uneven transitions."
+
+Prompt 70
+Positive:
+"A futuristic skyline viewed from a high balcony with neon-lit buildings and a glowing horizon. The text space is integrated into the sky or a blank panel on the balcony."
+
+Negative:
+"No overly busy designs, harsh lighting, or cluttered building arrangements."
+
+Prompt 71
+Positive:
+"A tranquil hot air balloon scene over rolling green hills at sunrise. The text space is a clean area in the open sky."
+
+Negative:
+"No overly dense balloons, dark shadows, or muted colors."
+
+Prompt 72
+Positive:
+"A soft-focus close-up of blooming flowers in a garden with vibrant colors. The text space is integrated naturally into a blurred section of the background."
+
+Negative:
+"No overly dense flower arrangements, harsh contrasts, or dull tones."
+
+Prompt 73
+Positive:
+"A futuristic laboratory with glowing test tubes and sleek surfaces. The text space is placed on a clean counter or within a glowing display."
+
+Negative:
+"No cluttered equipment, overly reflective surfaces, or harsh lighting."
+
+Prompt 74
+Positive:
+"A calm countryside windmill scene with a golden sunset in the background. The text space is integrated into the sky or an open field."
+
+Negative:
+"No overly dense tree arrangements, harsh shadows, or dull tones."
+
+Prompt 75
+Positive:
+"An artistic ink brushstroke design on a clean white canvas. The text space is a clear area within the artistic composition."
+
+Negative:
+"No overly chaotic strokes, harsh contrasts, or smudged edges."
+
+ถ้าต้องการให้สร้างต่อไปอีก 30 Prompt หรือปรับแนวทางให้เหมาะกับเป้าหมายเฉพาะ บอกได้เลยครับ! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ได้เลยครับ! มาต่ออีก 30 Prompt ที่หลากหลายและไม่ซ้ำเหมือนเดิมครับ
+
+Prompt 76
+Positive:
+"A peaceful meadow with wildflowers blooming under a clear blue sky. The text space is positioned in the open sky or on a grassy clearing."
+
+Negative:
+"No overly dense flowers, cluttered trees, or dull lighting."
+
+Prompt 77
+Positive:
+"A modern cityscape at night with illuminated skyscrapers and reflections on wet pavement. The text space is positioned in the reflections or an open patch of sky."
+
+Negative:
+"No overly busy traffic, harsh lighting, or cluttered arrangements."
+
+Prompt 78
+Positive:
+"A vibrant market scene with colorful stalls and exotic fruits. The text space is integrated into a blank banner or a clear tabletop surface."
+
+Negative:
+"No overcrowded stalls, excessive shadows, or overly dark tones."
+
+Prompt 79
+Positive:
+"A whimsical fairy tale forest with glowing mushrooms and a gentle stream. The text space is positioned on a flat stone or an open patch of ground."
+
+Negative:
+"No overly dense foliage, harsh lighting, or chaotic mushroom arrangements."
+
+Prompt 80
+Positive:
+"An industrial factory setting with clean metal beams and conveyor belts. The text space is placed on a blank wall or a smooth conveyor belt panel."
+
+Negative:
+"No cluttered machinery, dirty surfaces, or poor lighting."
+
+Prompt 81
+Positive:
+"A peaceful beachside sunset with silhouettes of palm trees. The text space is positioned naturally in the open sky or on the smooth sand."
+
+Negative:
+"No overly dense tree arrangements, dark shadows, or busy patterns in the sand."
+
+Prompt 82
+Positive:
+"A vibrant splash of ink on a clean white background with defined edges. The text space is a blank area within the composition."
+
+Negative:
+"No overly chaotic splashes, clashing colors, or smudged textures."
+
+Prompt 83
+Positive:
+"A picturesque vineyard with rows of grapevines under a soft afternoon light. The text space is integrated into the open sky or a smooth field."
+
+Negative:
+"No overly dense vegetation, uneven lighting, or cluttered details."
+
+Prompt 84
+Positive:
+"A creative notebook layout with neat hand-drawn illustrations and a blank central page. The text space is the blank page."
+
+Negative:
+"No smudged drawings, overly cluttered designs, or uneven paper textures."
+
+Prompt 85
+Positive:
+"A serene mountain lake reflecting the surrounding peaks and a clear blue sky. The text space is placed in the reflection or the open sky."
+
+Negative:
+"No overly dark shadows, dense vegetation, or busy reflections."
+
+Prompt 86
+Positive:
+"A high-tech circuit board with glowing pathways and a clean layout. The text space is positioned in a smooth, blank area of the board."
+
+Negative:
+"No overly complex pathways, cluttered designs, or dull tones."
+
+Prompt 87
+Positive:
+"A cozy library corner with warm lighting and rows of books. The text space is placed on a blank book cover or a clear wall."
+
+Negative:
+"No messy arrangements, overly dark corners, or distracting elements."
+
+Prompt 88
+Positive:
+"An artistic marble pattern with swirling colors and soft gradients. The text space is positioned in a clean, open area within the design."
+
+Negative:
+"No overly chaotic swirls, harsh contrasts, or dull colors."
+
+Prompt 89
+Positive:
+"A futuristic cityscape with flying vehicles and glowing neon signs. The text space is integrated into the sky or a blank building panel."
+
+Negative:
+"No overly busy designs, harsh lighting, or cluttered compositions."
+
+Prompt 90
+Positive:
+"A tranquil forest path covered in soft moss and dappled sunlight filtering through the trees. The text space is positioned on the path or an open sky patch."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered vegetation."
+
+Prompt 91
+Positive:
+"A minimalistic design with a single vibrant color gradient fading smoothly into a clean white background. The text space is in the white area."
+
+Negative:
+"No harsh transitions, clashing colors, or overly complex designs."
+
+Prompt 92
+Positive:
+"A rustic barnyard scene with soft hay bales and wooden fences under a sunny sky. The text space is positioned in the sky or an open barn wall."
+
+Negative:
+"No overly cluttered arrangements, dull lighting, or messy textures."
+
+Prompt 93
+Positive:
+"A snowy winter landscape with soft snowdrifts and pine trees in the background. The text space is positioned in an open patch of snow or sky."
+
+Negative:
+"No harsh shadows, overly dense trees, or dull colors."
+
+Prompt 94
+Positive:
+"A creative blueprint layout with precise lines and measurements on a clean background. The text space is a defined blank area within the design."
+
+Negative:
+"No messy or uneven lines, overly busy patterns, or poor lighting."
+
+Prompt 95
+Positive:
+"A tranquil pier scene with calm water reflecting the sky at dawn. The text space is integrated into the open sky or the smooth water."
+
+Negative:
+"No busy reflections, overly dark tones, or cluttered objects."
+
+Prompt 96
+Positive:
+"A bold pop art style with vibrant colors and dynamic shapes. The text space is a clear, defined area in the center of the composition."
+
+Negative:
+"No overly complex designs, harsh contrasts, or clashing colors."
+
+Prompt 97
+Positive:
+"A bustling city plaza with clean architectural details and open walkways. The text space is positioned on a blank wall or a smooth plaza surface."
+
+Negative:
+"No crowded arrangements, overly dark shadows, or distracting elements."
+
+Prompt 98
+Positive:
+"A creative galaxy design with swirling stars and soft nebula gradients. The text space is positioned in an open void within the galaxy."
+
+Negative:
+"No overly dense star fields, chaotic patterns, or dull colors."
+
+Prompt 99
+Positive:
+"A tranquil riverbank with smooth stones and clear water reflecting the sky. The text space is placed on a smooth stone or a calm water patch."
+
+Negative:
+"No overly busy vegetation, dark shadows, or chaotic reflections."
+
+Prompt 100
+Positive:
+"A modern coffee shop interior with clean tables and warm lighting. The text space is positioned on a smooth tabletop or a blank menu board."
+
+Negative:
+"No cluttered furniture, poor lighting, or overly dark tones."
+
+ถ้าต้องการต่อไปอีก 30 Prompt บอกได้เลยครับ หรือมีสไตล์เฉพาะที่ต้องการเพิ่มเติมก็แจ้งมาได้เลย! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ได้เลยครับ! มาต่ออีก 30 Prompt ที่หลากหลายและไม่ซ้ำแน่นอนครับ
+
+Prompt 101
+Positive:
+"A close-up of cracked desert ground with intricate patterns and textures. The text space is positioned on a smoother, uncracked patch of the desert floor."
+
+Negative:
+"No overly harsh lighting, cluttered debris, or dull textures."
+
+Prompt 102
+Positive:
+"A creative kaleidoscope design with symmetrical geometric patterns and vibrant colors. The text space is integrated into the center or a clean corner."
+
+Negative:
+"No overly busy arrangements, clashing colors, or chaotic transitions."
+
+Prompt 103
+Positive:
+"A soft-focus shot of frosted glass with gentle lighting and subtle gradients. The text space is placed in the center where the frost appears smoothest."
+
+Negative:
+"No harsh scratches, overly dense frost, or uneven textures."
+
+Prompt 104
+Positive:
+"A tranquil mountain cabin surrounded by snow-covered trees. The text space is placed in the open sky or a blank section of the cabin wall."
+
+Negative:
+"No overly dark shadows, dense foliage, or cluttered arrangements."
+
+Prompt 105
+Positive:
+"A vibrant urban street art mural with bold, dynamic colors and clean graffiti. The text space is a smooth blank section within the artwork."
+
+Negative:
+"No smudged paint, overly chaotic designs, or dark tones."
+
+Prompt 106
+Positive:
+"A serene underwater view with sunlight streaming through the surface and casting gentle beams. The text space is integrated into a clear area of the water."
+
+Negative:
+"No overly busy marine life, murky water, or harsh lighting."
+
+Prompt 107
+Positive:
+"A futuristic digital grid with glowing blue lines and a high-tech aesthetic. The text space is positioned on a blank area of the grid."
+
+Negative:
+"No overly complex patterns, harsh glows, or cluttered designs."
+
+Prompt 108
+Positive:
+"A rustic brick wall with weathered textures and warm tones. The text space is positioned on a smoother, unblemished section of the wall."
+
+Negative:
+"No cracks, excessive weathering, or uneven lighting."
+
+Prompt 109
+Positive:
+"A vibrant carnival night scene with colorful lights and a Ferris wheel in the background. The text space is placed in the open sky or on a blank banner."
+
+Negative:
+"No overly crowded details, harsh shadows, or dull tones."
+
+Prompt 110
+Positive:
+"An abstract smoke effect with soft, swirling patterns in vivid colors. The text space is placed in a clear void within the smoke."
+
+Negative:
+"No overly dense areas, clashing colors, or uneven gradients."
+
+Prompt 111
+Positive:
+"A peaceful river flowing through a forest with soft sunlight dappling the surface. The text space is positioned on the water or an open sky patch."
+
+Negative:
+"No cluttered vegetation, dark shadows, or overly busy reflections."
+
+Prompt 112
+Positive:
+"A bold zebra pattern with clean black and white stripes. The text space is integrated into a blank, smooth section of the design."
+
+Negative:
+"No uneven lines, excessive contrasts, or cluttered patterns."
+
+Prompt 113
+Positive:
+"A creative workspace with clean desks, vibrant stationery, and a cozy atmosphere. The text space is placed on a blank notebook or clean table."
+
+Negative:
+"No cluttered surfaces, harsh lighting, or dull tones."
+
+Prompt 114
+Positive:
+"A dynamic racing car scene with motion blur effects and vibrant colors. The text space is integrated into the sky or a blank track section."
+
+Negative:
+"No overly busy details, harsh lighting, or cluttered backgrounds."
+
+Prompt 115
+Positive:
+"A surreal desert scene with towering sand dunes and a glowing moon. The text space is positioned in the sky or on a smooth sand patch."
+
+Negative:
+"No excessive clouds, cluttered details, or harsh shadows."
+
+Prompt 116
+Positive:
+"A picturesque farmland with rolling green hills and a clear blue sky. The text space is integrated into the sky or a flat, open field."
+
+Negative:
+"No dense trees, uneven lighting, or dull tones."
+
+Prompt 117
+Positive:
+"A creative splash of coffee on a clean white surface with dynamic shapes. The text space is positioned in the unmarked areas of the design."
+
+Negative:
+"No excessive splashes, harsh stains, or uneven patterns."
+
+Prompt 118
+Positive:
+"A tranquil park bench scene under a canopy of autumn leaves. The text space is placed in the open sky or a blank patch of ground."
+
+Negative:
+"No overly dense leaves, dark shadows, or cluttered paths."
+
+Prompt 119
+Positive:
+"A bold lightning storm with dramatic clouds and vivid electric bolts. The text space is integrated into the open sky or smooth cloud gaps."
+
+Negative:
+"No overly chaotic lightning, harsh contrasts, or cluttered skies."
+
+Prompt 120
+Positive:
+"An artistic splatter painting with vibrant colors and dynamic textures. The text space is positioned in a smooth, blank section within the composition."
+
+Negative:
+"No excessive splatters, clashing colors, or uneven designs."
+
+Prompt 121
+Positive:
+"A serene coral reef scene with colorful marine life and clear blue water. The text space is placed in an open water area or smooth coral patch."
+
+Negative:
+"No overly dense fish groups, dark shadows, or cluttered reefs."
+
+Prompt 122
+Positive:
+"A soft-focus landscape of lavender fields stretching under a pastel sunset. The text space is positioned in the sky or a clear field section."
+
+Negative:
+"No overly dense flowers, harsh lighting, or dull colors."
+
+Prompt 123
+Positive:
+"A retro neon sign design with glowing text on a dark, clean background. The text space is integrated into a blank, glowing sign area."
+
+Negative:
+"No cluttered details, harsh glows, or overly busy patterns."
+
+Prompt 124
+Positive:
+"A minimalist concrete texture with smooth surfaces and subtle shading. The text space is positioned in the cleanest, smoothest section."
+
+Negative:
+"No cracks, uneven textures, or harsh lighting."
+
+Prompt 125
+Positive:
+"A whimsical hot air balloon scene over a patchwork countryside with vibrant colors. The text space is positioned in the sky or a clear field section."
+
+Negative:
+"No overly dense balloons, dull tones, or busy patterns."
+
+Prompt 126
+Positive:
+"A dynamic waterfall scene with mist rising and sunlight filtering through. The text space is placed in the mist or a smooth rock surface."
+
+Negative:
+"No overly dense vegetation, dark shadows, or chaotic water flow."
+
+Prompt 127
+Positive:
+"A creative holographic texture with shifting rainbow colors and smooth gradients. The text space is positioned in a blank, smooth area of the design."
+
+Negative:
+"No overly harsh transitions, clashing colors, or busy details."
+
+Prompt 128
+Positive:
+"A futuristic underground subway station with sleek architecture and glowing lights. The text space is integrated into a blank wall or floor panel."
+
+Negative:
+"No cluttered designs, overly dark corners, or harsh lighting."
+
+ถ้าต้องการอีก 30 Prompt บอกมาได้เลยครับ หรือถ้ามีแนวพิเศษที่อยากเน้นก็แจ้งมาได้ครับ! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ได้เลยครับ! ต่ออีก 30 Prompt หลากหลาย ไม่ซ้ำเหมือนเดิมครับ
+
+Prompt 129
+Positive:
+"A surreal mountain floating in the clouds, with vibrant colors and a mystical aura. The text space is positioned in the clear sky or a smooth cloud patch."
+
+Negative:
+"No overly dense clouds, harsh contrasts, or cluttered mountain details."
+
+Prompt 130
+Positive:
+"A creative chessboard with sleek pieces arranged in dynamic patterns. The text space is placed on a blank square or smooth background."
+
+Negative:
+"No chaotic arrangements, dull tones, or overly crowded compositions."
+
+Prompt 131
+Positive:
+"A tranquil lakeside picnic scene with soft grass and an open blanket. The text space is positioned on the blanket or the clear sky."
+
+Negative:
+"No cluttered items, harsh lighting, or overly dark shadows."
+
+Prompt 132
+Positive:
+"A cosmic wormhole with swirling galaxies and vibrant colors. The text space is integrated into the smooth center of the wormhole."
+
+Negative:
+"No overly chaotic swirls, dull tones, or excessive stars."
+
+Prompt 133
+Positive:
+"A minimalist clock face design with clean lines and elegant hands. The text space is positioned in the center or a blank clock panel."
+
+Negative:
+"No cluttered details, uneven lines, or poor lighting."
+
+Prompt 134
+Positive:
+"A rustic farm scene with golden wheat fields and a classic windmill. The text space is placed in the open sky or a smooth field area."
+
+Negative:
+"No overly dense crops, dark shadows, or cluttered backgrounds."
+
+Prompt 135
+Positive:
+"An artistic shattered glass effect with dynamic shards reflecting vibrant colors. The text space is positioned in the smooth center void."
+
+Negative:
+"No overly sharp shards, harsh contrasts, or chaotic designs."
+
+Prompt 136
+Positive:
+"A peaceful zen garden with smooth sand patterns and simple stones. The text space is integrated into the smooth sand area."
+
+Negative:
+"No overly complex patterns, cluttered stones, or uneven lighting."
+
+Prompt 137
+Positive:
+"A vibrant rainforest canopy with sunlight filtering through the leaves. The text space is positioned in a patch of clear sky or a smooth leaf area."
+
+Negative:
+"No overly dense foliage, dark shadows, or busy patterns."
+
+Prompt 138
+Positive:
+"A creative geometric prism with refracted light creating rainbows. The text space is placed in the smooth prism surface or a blank background."
+
+Negative:
+"No overly complex reflections, dull colors, or chaotic arrangements."
+
+Prompt 139
+Positive:
+"A serene meadow with grazing animals under a soft sunrise. The text space is positioned in the open sky or a smooth grassy patch."
+
+Negative:
+"No overly dense animals, harsh lighting, or cluttered arrangements."
+
+Prompt 140
+Positive:
+"A bold industrial gear design with intricate details and clean edges. The text space is positioned in the smooth center of the largest gear."
+
+Negative:
+"No overly crowded details, dark tones, or chaotic patterns."
+
+Prompt 141
+Positive:
+"A tranquil desert oasis with a small pond surrounded by palm trees. The text space is placed in the open sky or the calm water."
+
+Negative:
+"No overly dense vegetation, dark shadows, or cluttered designs."
+
+Prompt 142
+Positive:
+"A creative textile pattern with vibrant threads woven into dynamic shapes. The text space is integrated into a smooth, unpatterned section."
+
+Negative:
+"No overly busy threads, clashing colors, or uneven textures."
+
+Prompt 143
+Positive:
+"A retro 80s synthwave scene with glowing grids and a neon horizon. The text space is placed in the open sky or a smooth grid panel."
+
+Negative:
+"No overly complex designs, harsh lighting, or clashing colors."
+
+Prompt 144
+Positive:
+"A peaceful winter cabin surrounded by softly falling snow under a twilight sky. The text space is positioned in the open sky or smooth snow."
+
+Negative:
+"No dense trees, harsh lighting, or overly dark shadows."
+
+Prompt 145
+Positive:
+"A creative spiral staircase design with elegant curves and dynamic lighting. The text space is placed in the smooth center void of the spiral."
+
+Negative:
+"No overly sharp edges, dark tones, or cluttered backgrounds."
+
+Prompt 146
+Positive:
+"A colorful koi pond with gently rippling water and floating lily pads. The text space is positioned on a smooth water surface or a blank area."
+
+Negative:
+"No overly dense fish, dark shadows, or busy patterns."
+
+Prompt 147
+Positive:
+"A dynamic city skyline at sunrise with golden light reflecting off buildings. The text space is placed in the open sky or a blank building panel."
+
+Negative:
+"No overly dense buildings, dark shadows, or cluttered arrangements."
+
+Prompt 148
+Positive:
+"An abstract light trails design with smooth gradients and flowing patterns. The text space is positioned in a blank, smooth section of the trails."
+
+Negative:
+"No overly chaotic trails, harsh lighting, or dull colors."
+
+Prompt 149
+Positive:
+"A serene sunflower field with a clear blue sky and vibrant flowers. The text space is positioned in the open sky or a smooth field patch."
+
+Negative:
+"No overly dense flowers, harsh lighting, or cluttered backgrounds."
+
+Prompt 150
+Positive:
+"A dynamic sports scene with a football mid-air and clean grassy field. The text space is placed in the open sky or a smooth patch of grass."
+
+Negative:
+"No overly busy players, harsh shadows, or cluttered backgrounds."
+
+Prompt 151
+Positive:
+"A tranquil harbor at sunset with calm water reflecting the sky. The text space is positioned in the water or a smooth dock area."
+
+Negative:
+"No overly busy boats, dark tones, or cluttered reflections."
+
+Prompt 152
+Positive:
+"An elegant jewelry design with a sparkling gemstone on a clean background. The text space is positioned near the gem or in a blank area."
+
+Negative:
+"No overly busy settings, harsh reflections, or dull lighting."
+
+Prompt 153
+Positive:
+"A creative collage of vintage postcards, stamps, and handwritten notes. The text space is positioned in a blank postcard or smooth background."
+
+Negative:
+"No overly cluttered designs, dark tones, or chaotic arrangements."
+
+Prompt 154
+Positive:
+"A surreal underwater cave illuminated by bioluminescent organisms. The text space is placed in a clear water patch or smooth cave wall."
+
+Negative:
+"No overly dense organisms, dark shadows, or cluttered caves."
+
+Prompt 155
+Positive:
+"A bold typographic design with clean, modern fonts on a minimalist background. The text space is integrated into the blank background area."
+
+Negative:
+"No overly complex fonts, harsh lighting, or cluttered designs."
+
+Prompt 156
+Positive:
+"A vibrant amusement park with a colorful carousel and open paths. The text space is positioned in the open sky or a smooth ground area."
+
+Negative:
+"No overly crowded attractions, harsh lighting, or cluttered paths."
+
+ถ้าต้องการต่ออีก 30 Prompt แจ้งมาได้เลยครับ หรือมีแนวคิดเพิ่มเติมที่อยากได้ แจ้งมาได้เช่นกัน! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+พร้อมแล้วครับ! นี่คือ 30 Prompt ถัดไปที่หลากหลายและไม่ซ้ำครับ
+
+Prompt 157
+Positive:
+"A whimsical windmill spinning on a grassy hill with a clear blue sky. The text space is placed in the open sky or a smooth patch of grass."
+
+Negative:
+"No overly busy clouds, dark shadows, or cluttered backgrounds."
+
+Prompt 158
+Positive:
+"A futuristic city skyline with sleek buildings, neon lights, and flying vehicles. The text space is integrated into the sky or blank section of the buildings."
+
+Negative:
+"No overly crowded skies, dull tones, or chaotic designs."
+
+Prompt 159
+Positive:
+"A dynamic skateboarder performing tricks on an urban ramp, with graffiti-covered walls. The text space is placed in the open sky or a blank section of the wall."
+
+Negative:
+"No overly busy graffiti, harsh lighting, or cluttered arrangements."
+
+Prompt 160
+Positive:
+"A vibrant jungle scene with exotic flowers, green vines, and a bright waterfall. The text space is positioned on the smooth rock or open sky area."
+
+Negative:
+"No overly dense foliage, dark shadows, or cluttered water features."
+
+Prompt 161
+Positive:
+"A surreal forest at twilight with glowing fireflies and softly shimmering trees. The text space is integrated into a clear patch of sky or the forest floor."
+
+Negative:
+"No overly dense trees, harsh contrasts, or cluttered lighting."
+
+Prompt 162
+Positive:
+"A creative abstract swirl of paint with bold, dynamic colors and smooth lines. The text space is placed in the center or a blank area of the swirl."
+
+Negative:
+"No overly chaotic brushstrokes, dull tones, or clashing colors."
+
+Prompt 163
+Positive:
+"A minimalist mountain landscape with gentle slopes and pastel tones. The text space is positioned in the clear sky or a blank snow patch."
+
+Negative:
+"No overly busy terrain, harsh contrasts, or dark shadows."
+
+Prompt 164
+Positive:
+"A whimsical carousel with vibrant lights and animals in motion. The text space is placed in the open sky or a blank section of the carousel."
+
+Negative:
+"No overly crowded animals, dark shadows, or cluttered patterns."
+
+Prompt 165
+Positive:
+"A serene beach at sunset with gentle waves and soft orange skies. The text space is positioned in the open sky or smooth sand."
+
+Negative:
+"No overly crowded beachgoers, dark shadows, or busy textures."
+
+Prompt 166
+Positive:
+"A futuristic control room with glowing screens and holographic displays. The text space is integrated into the center of the room or a smooth blank panel."
+
+Negative:
+"No overly chaotic interfaces, dark corners, or cluttered designs."
+
+Prompt 167
+Positive:
+"A dynamic roller coaster ride with thrilling loops and bright colors. The text space is positioned in the clear sky or smooth section of the track."
+
+Negative:
+"No overly dense crowds, harsh lighting, or cluttered backgrounds."
+
+Prompt 168
+Positive:
+"A bold geometric mural with clean lines and vibrant primary colors. The text space is placed in a smooth blank section of the mural."
+
+Negative:
+"No overly complex shapes, dull colors, or chaotic patterns."
+
+Prompt 169
+Positive:
+"A whimsical garden filled with oversized mushrooms, vibrant flowers, and colorful insects. The text space is positioned on a clear mushroom cap or flower petal."
+
+Negative:
+"No overly dense foliage, dark shadows, or cluttered designs."
+
+Prompt 170
+Positive:
+"A serene snow-covered forest with soft light filtering through branches. The text space is placed in the clear sky or smooth snow surface."
+
+Negative:
+"No overly dark shadows, cluttered branches, or harsh lighting."
+
+Prompt 171
+Positive:
+"A dynamic digital interface with glowing icons and smooth transitions. The text space is integrated into the clear panel or blank section."
+
+Negative:
+"No overly chaotic transitions, dark areas, or overly bright lighting."
+
+Prompt 172
+Positive:
+"A peaceful mountain lake surrounded by pine trees and fog. The text space is positioned in the open sky or a blank patch of water."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered reflections."
+
+Prompt 173
+Positive:
+"A cozy cabin by a fireplace with a soft, warm glow illuminating the room. The text space is placed on a smooth section of the wall or rug."
+
+Negative:
+"No overly cluttered decor, harsh lighting, or dull tones."
+
+Prompt 174
+Positive:
+"A vibrant neon sign in the shape of an animal glowing against a dark city backdrop. The text space is integrated into a blank portion of the sign."
+
+Negative:
+"No overly busy backgrounds, harsh lighting, or dark tones."
+
+Prompt 175
+Positive:
+"A surreal desert landscape with enormous cacti and a glowing orange sun. The text space is placed in the sky or a smooth sand patch."
+
+Negative:
+"No overly crowded cacti, harsh shadows, or busy textures."
+
+Prompt 176
+Positive:
+"A dreamy cloudscape with soft pastel-colored clouds and a gentle breeze. The text space is positioned in the open sky or smooth cloud area."
+
+Negative:
+"No overly dense clouds, dark shadows, or cluttered designs."
+
+Prompt 177
+Positive:
+"A whimsical house in the clouds with colorful balloons lifting it. The text space is placed in the smooth sky or around the house."
+
+Negative:
+"No overly busy details, harsh shadows, or cluttered designs."
+
+Prompt 178
+Positive:
+"A creative underwater cavern with glowing stones and calm water. The text space is integrated into the smooth water surface or a blank rock section."
+
+Negative:
+"No overly dense algae, dark shadows, or busy water features."
+
+Prompt 179
+Positive:
+"A beautiful sunflower field with bright yellow blooms under a clear sky. The text space is positioned in the sky or a smooth patch of ground."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered elements."
+
+Prompt 180
+Positive:
+"A retro jukebox glowing in a dimly lit diner. The text space is placed on a smooth area of the jukebox or diner counter."
+
+Negative:
+"No overly cluttered counters, harsh lighting, or dull colors."
+
+Prompt 181
+Positive:
+"A mystical moonlit forest with glowing mushrooms and soft light filtering through the trees. The text space is integrated into the smooth forest floor or a blank patch of sky."
+
+Negative:
+"No overly dense vegetation, dark shadows, or cluttered backgrounds."
+
+Prompt 182
+Positive:
+"A colorful abstract explosion of fireworks in the night sky. The text space is placed in the clear sky or smooth section of the explosion."
+
+Negative:
+"No overly chaotic fireworks, dull tones, or cluttered patterns."
+
+Prompt 183
+Positive:
+"A majestic lion resting in a vast savanna with a soft, golden light. The text space is positioned in the open sky or a blank section of the ground."
+
+Negative:
+"No overly busy landscapes, dark shadows, or chaotic elements."
+
+Prompt 184
+Positive:
+"A creative splash of colorful ink with smooth blending and dynamic textures. The text space is placed in a smooth blank area of the ink design."
+
+Negative:
+"No overly harsh splashes, dull colors, or chaotic strokes."
+
+Prompt 185
+Positive:
+"A vibrant marketplace with colorful stalls, fruits, and spices. The text space is positioned in a blank area of the sky or smooth market table."
+
+Negative:
+"No overly crowded stalls, harsh lighting, or dark tones."
+
+Prompt 186
+Positive:
+"A tranquil mountain retreat with large windows and panoramic views. The text space is placed on a smooth section of the window or floor."
+
+Negative:
+"No overly dark corners, cluttered interior, or harsh lighting."
+
+Prompt 187
+Positive:
+"A peaceful countryside with rolling hills, a winding road, and a distant barn. The text space is positioned in the sky or a blank field area."
+
+Negative:
+"No overly dense vegetation, dark shadows, or busy roads."
+
+Prompt 188
+Positive:
+"A futuristic neon street scene with glowing signs and bustling crowds. The text space is integrated into the clear sky or a blank section of the road."
+
+Negative:
+"No overly busy streets, harsh lighting, or cluttered signage."
+
+Prompt 189
+Positive:
+"A creative lightning bolt striking through a clear blue sky with dynamic energy. The text space is placed in the smooth sky or a blank patch of ground."
+
+Negative:
+"No overly chaotic bolts, dark clouds, or cluttered landscapes."
+
+Prompt 190
+Positive:
+"A cozy cafe scene with warm lighting, coffee cups, and soft furniture. The text space is placed on the smooth table or open space on the wall."
+
+Negative:
+"No overly cluttered tables, harsh lighting, or dark tones."
+
+ถ้ายังต้องการเพิ่มเติมอีก 30 Prompt หรืออยากปรับแนวไหนก็บอกได้เลยครับ! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ขอบคุณที่รอครับ! ต่ออีก 30 Prompt ที่หลากหลายและไม่ซ้ำเลยครับ!
+
+Prompt 191
+Positive:
+"A majestic ancient temple on a misty mountain with soft sunlight. The text space is positioned in the open sky or the blank temple entrance."
+
+Negative:
+"No overly dense fog, dark shadows, or cluttered details."
+
+Prompt 192
+Positive:
+"A serene lavender field at sunset with soft purples and oranges in the sky. The text space is positioned in the clear sky or smooth field patch."
+
+Negative:
+"No overly dense lavender, harsh lighting, or busy elements."
+
+Prompt 193
+Positive:
+"A futuristic space station orbiting a distant planet with glowing lights. The text space is integrated into the space station's surface or a blank patch of space."
+
+Negative:
+"No overly chaotic stations, dull tones, or busy space elements."
+
+Prompt 194
+Positive:
+"A creative library with bookshelves filled with colorful books and an open reading area. The text space is placed on a smooth table or empty shelf."
+
+Negative:
+"No overly cluttered bookshelves, harsh lighting, or dark corners."
+
+Prompt 195
+Positive:
+"A minimalist desk with clean lines, a laptop, and a cup of coffee. The text space is integrated into the smooth desk surface or open area."
+
+Negative:
+"No overly crowded objects, harsh shadows, or dull tones."
+
+Prompt 196
+Positive:
+"A magical forest with glowing plants and gentle, flowing water. The text space is placed in the smooth water area or an empty patch of trees."
+
+Negative:
+"No overly dense foliage, dark shadows, or cluttered water features."
+
+Prompt 197
+Positive:
+"A retro vintage car parked on a desert road with the sun setting in the distance. The text space is positioned in the clear sky or on the smooth road."
+
+Negative:
+"No overly cluttered road, dark shadows, or busy elements."
+
+Prompt 198
+Positive:
+"A tranquil yoga studio with soft natural light streaming in. The text space is placed in the smooth floor area or open space."
+
+Negative:
+"No overly crowded decorations, harsh lighting, or cluttered backgrounds."
+
+Prompt 199
+Positive:
+"A surreal jellyfish swimming in the dark ocean with glowing tendrils. The text space is positioned in the smooth water area or a blank patch of ocean."
+
+Negative:
+"No overly dense jellyfish, dark shadows, or chaotic ocean waves."
+
+Prompt 200
+Positive:
+"A vibrant carnival scene with colorful rides, games, and balloons. The text space is integrated into the open sky or a blank section of the carnival."
+
+Negative:
+"No overly busy crowds, harsh lighting, or dark tones."
+
+Prompt 201
+Positive:
+"A whimsical hot air balloon floating over a dreamy landscape at sunrise. The text space is placed in the clear sky or smooth landscape below."
+
+Negative:
+"No overly busy balloon designs, dark shadows, or cluttered skies."
+
+Prompt 202
+Positive:
+"A calm river running through a lush forest with soft light filtering through leaves. The text space is positioned in the smooth water or clear sky."
+
+Negative:
+"No overly dense trees, dark shadows, or busy water features."
+
+Prompt 203
+Positive:
+"A peaceful city park with children playing and colorful trees in bloom. The text space is integrated into the open sky or smooth grass area."
+
+Negative:
+"No overly busy children, harsh lighting, or cluttered backgrounds."
+
+Prompt 204
+Positive:
+"A celestial scene with bright stars, glowing nebulae, and distant planets. The text space is placed in the open sky or a smooth planet surface."
+
+Negative:
+"No overly chaotic stars, dark tones, or cluttered nebulae."
+
+Prompt 205
+Positive:
+"A cozy reading nook by a window with warm lighting and comfy cushions. The text space is placed on the smooth window sill or open floor space."
+
+Negative:
+"No overly cluttered decor, dark tones, or harsh lighting."
+
+Prompt 206
+Positive:
+"A creative paint splatter design with vibrant colors and fluid lines. The text space is integrated into the smooth background or a blank paint area."
+
+Negative:
+"No overly chaotic splatters, dull tones, or harsh contrasts."
+
+Prompt 207
+Positive:
+"A peaceful garden with flowing fountains, koi fish, and delicate flowers. The text space is positioned in the smooth water surface or open space between flowers."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered water features."
+
+Prompt 208
+Positive:
+"A majestic castle perched on a cliff with a glowing moon in the background. The text space is positioned in the clear sky or smooth cliff surface."
+
+Negative:
+"No overly busy background, dark shadows, or cluttered designs."
+
+Prompt 209
+Positive:
+"A dynamic soccer match in progress with players on a green field. The text space is placed in the open sky or a smooth section of the field."
+
+Negative:
+"No overly busy players, dark shadows, or cluttered backgrounds."
+
+Prompt 210
+Positive:
+"A tranquil seaside village with colorful houses and boats anchored by the shore. The text space is positioned in the smooth water or open sky."
+
+Negative:
+"No overly crowded boats, dark shadows, or busy elements."
+
+Prompt 211
+Positive:
+"A dreamy cloudscape with soft, fluffy clouds and gentle sunlight peeking through. The text space is placed in the clear sky or a smooth patch of cloud."
+
+Negative:
+"No overly dense clouds, harsh lighting, or cluttered sky."
+
+Prompt 212
+Positive:
+"A colorful abstract geometric pattern with bold shapes and smooth gradients. The text space is integrated into the blank section of the pattern."
+
+Negative:
+"No overly busy patterns, dark tones, or clashing colors."
+
+Prompt 213
+Positive:
+"A peaceful night sky with a full moon and twinkling stars. The text space is placed in the smooth sky or a blank moon area."
+
+Negative:
+"No overly dense clouds, dark shadows, or cluttered stars."
+
+Prompt 214
+Positive:
+"A futuristic robot design with sleek lines and glowing details. The text space is positioned in a blank section of the robot or smooth background."
+
+Negative:
+"No overly busy designs, harsh lighting, or dull tones."
+
+Prompt 215
+Positive:
+"A magical mushroom forest with glowing caps and soft moss-covered ground. The text space is integrated into the smooth ground or empty mushroom cap."
+
+Negative:
+"No overly dense mushrooms, dark shadows, or cluttered designs."
+
+Prompt 216
+Positive:
+"A vintage map with intricate details, compass roses, and old parchment textures. The text space is placed in the clear area of the map or smooth parchment."
+
+Negative:
+"No overly complex map details, dark tones, or cluttered borders."
+
+Prompt 217
+Positive:
+"A scenic mountain trail with winding paths and lush greenery. The text space is positioned in the open sky or smooth trail area."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered backgrounds."
+
+Prompt 218
+Positive:
+"A bold typography design with clean lines and minimalist icons. The text space is positioned in a blank area of the typography design."
+
+Negative:
+"No overly complex fonts, cluttered sections, or dull colors."
+
+Prompt 219
+Positive:
+"A peaceful barnyard with grazing animals, hay bales, and soft sunset light. The text space is placed in the open sky or smooth ground area."
+
+Negative:
+"No overly dense animals, harsh shadows, or cluttered elements."
+
+Prompt 220
+Positive:
+"A surreal underwater kingdom with glowing sea creatures and delicate corals. The text space is integrated into the smooth water surface or coral area."
+
+Negative:
+"No overly busy sea creatures, dark tones, or cluttered backgrounds."
+
+ถ้ามีคำแนะนำเพิ่มเติมหรืออยากปรับเปลี่ยนอะไรบอกได้เลยครับ! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ได้เลยครับ! นี่คือ 30 Prompt ถัดไปที่หลากหลายและไม่ซ้ำกันครับ:
+
+Prompt 221
+Positive:
+"A surreal dreamscape with floating islands and glowing waterfalls. The text space is placed in the clear sky or an open section of the island."
+
+Negative:
+"No overly dense waterfalls, dark shadows, or chaotic elements."
+
+Prompt 222
+Positive:
+"A vibrant coral reef with colorful fish swimming through the clear water. The text space is integrated into the smooth water or a blank coral patch."
+
+Negative:
+"No overly dense corals, dark shadows, or cluttered water features."
+
+Prompt 223
+Positive:
+"A dynamic motocross scene with riders performing tricks in mid-air. The text space is placed in the open sky or smooth section of the dirt track."
+
+Negative:
+"No overly busy riders, dark shadows, or cluttered backgrounds."
+
+Prompt 224
+Positive:
+"A quiet countryside with a rustic barn, green fields, and a blue sky. The text space is positioned in the clear sky or smooth ground."
+
+Negative:
+"No overly dense trees, dark shadows, or busy fences."
+
+Prompt 225
+Positive:
+"A futuristic space explorer in a sleek spacesuit, standing on a distant planet. The text space is integrated into the smooth surface of the planet or open sky."
+
+Negative:
+"No overly complex suit design, dark tones, or cluttered elements."
+
+Prompt 226
+Positive:
+"A peaceful mountain retreat with large windows, snowy peaks, and warm interior lighting. The text space is placed on a smooth window surface or open floor space."
+
+Negative:
+"No overly cluttered furniture, harsh lighting, or dark corners."
+
+Prompt 227
+Positive:
+"A majestic eagle soaring through a clear sky with snow-covered mountains below. The text space is positioned in the open sky or a smooth section of the mountain."
+
+Negative:
+"No overly busy mountains, dark shadows, or cluttered skies."
+
+Prompt 228
+Positive:
+"A cozy kitchen with wooden counters, plants, and warm natural light. The text space is placed on the smooth counter surface or open wall area."
+
+Negative:
+"No overly cluttered counters, dark lighting, or busy patterns."
+
+Prompt 229
+Positive:
+"A mystical forest with glowing trees and soft moonlight filtering through the branches. The text space is integrated into the smooth forest floor or clear sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered designs."
+
+Prompt 230
+Positive:
+"A vibrant geometric pattern with bold shapes and gradients of color. The text space is placed in the blank section of the design."
+
+Negative:
+"No overly busy patterns, dull colors, or clashing shapes."
+
+Prompt 231
+Positive:
+"A scenic lake surrounded by tall mountains, with mist rising off the water. The text space is positioned in the smooth water surface or blank sky area."
+
+Negative:
+"No overly dense fog, dark shadows, or cluttered lake details."
+
+Prompt 232
+Positive:
+"A dreamy cityscape at night with glowing lights and distant skyscrapers. The text space is integrated into the smooth sky or blank building surfaces."
+
+Negative:
+"No overly busy streets, harsh lighting, or dark corners."
+
+Prompt 233
+Positive:
+"A whimsical fairytale castle with colorful flags, glowing windows, and a moonlit sky. The text space is placed in the clear sky or smooth castle wall."
+
+Negative:
+"No overly crowded flags, dark tones, or busy backgrounds."
+
+Prompt 234
+Positive:
+"A lush tropical beach with palm trees, clear turquoise water, and soft white sand. The text space is positioned in the clear sky or smooth water area."
+
+Negative:
+"No overly dense palm trees, dark shadows, or cluttered sand."
+
+Prompt 235
+Positive:
+"A clean, minimalist office space with a wooden desk, a plant, and a laptop. The text space is placed on the smooth desk surface or blank wall area."
+
+Negative:
+"No overly cluttered decor, dark tones, or harsh lighting."
+
+Prompt 236
+Positive:
+"A glowing neon sign in the shape of a heart against a dark city backdrop. The text space is integrated into the neon sign or smooth background."
+
+Negative:
+"No overly busy city details, harsh lighting, or dark tones."
+
+Prompt 237
+Positive:
+"A serene garden with a stone pathway, blooming flowers, and gentle water fountains. The text space is placed on the smooth path or blank sky."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered fountains."
+
+Prompt 238
+Positive:
+"A calm desert landscape with a single cactus and a glowing orange sunset. The text space is integrated into the open sky or smooth desert sand."
+
+Negative:
+"No overly busy desert features, dark tones, or cluttered textures."
+
+Prompt 239
+Positive:
+"A retro diner with shiny chrome counters, a jukebox, and neon lights. The text space is placed on a smooth counter surface or blank wall area."
+
+Negative:
+"No overly crowded tables, harsh lighting, or dark tones."
+
+Prompt 240
+Positive:
+"A peaceful autumn forest with colorful leaves falling, soft golden light filtering through trees. The text space is integrated into the smooth forest floor or blank sky."
+
+Negative:
+"No overly dense leaves, dark shadows, or cluttered branches."
+
+Prompt 241
+Positive:
+"A peaceful river flowing through a valley with lush green trees lining the banks. The text space is positioned in the smooth water surface or blank sky."
+
+Negative:
+"No overly dense trees, dark shadows, or busy water features."
+
+Prompt 242
+Positive:
+"A vibrant city street with bustling crowds, glowing shop signs, and colorful buildings. The text space is integrated into the clear sky or smooth section of the street."
+
+Negative:
+"No overly crowded streets, harsh lighting, or cluttered storefronts."
+
+Prompt 243
+Positive:
+"A creative splash of watercolors blending into soft pastel tones. The text space is placed in the smooth area of the design or blank patch."
+
+Negative:
+"No overly harsh splashes, dull tones, or clashing colors."
+
+Prompt 244
+Positive:
+"A futuristic transport system with sleek vehicles moving through a city grid. The text space is placed in the smooth section of the road or clear sky."
+
+Negative:
+"No overly crowded roads, dark tones, or chaotic elements."
+
+Prompt 245
+Positive:
+"A peaceful winter scene with snow-covered trees, a frozen lake, and soft moonlight. The text space is integrated into the smooth snow surface or blank sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered snow features."
+
+Prompt 246
+Positive:
+"A dynamic dance performance on a stage with colorful lights and flowing fabrics. The text space is placed in the open space of the stage or blank area of the fabric."
+
+Negative:
+"No overly busy lighting, dark shadows, or cluttered elements."
+
+Prompt 247
+Positive:
+"A vibrant festival with balloons, lights, and dancers in colorful costumes. The text space is integrated into the smooth sky or a blank section of the street."
+
+Negative:
+"No overly crowded participants, harsh lighting, or dark tones."
+
+Prompt 248
+Positive:
+"A quiet library corner with soft light filtering through windows, comfortable seating, and books. The text space is placed on the smooth table or wall."
+
+Negative:
+"No overly cluttered bookshelves, dark corners, or harsh lighting."
+
+Prompt 249
+Positive:
+"A creative night sky with stars, a glowing crescent moon, and swirling nebulae. The text space is positioned in the smooth sky or blank patch of stars."
+
+Negative:
+"No overly dense stars, dark tones, or chaotic nebulae."
+
+Prompt 250
+Positive:
+"A peaceful meditation space with candles, incense, and soft lighting. The text space is placed on the smooth floor area or open wall."
+
+Negative:
+"No overly cluttered decor, dark lighting, or busy patterns."
+
+Prompt 251
+Positive:
+"A colorful sunset over a serene beach with gentle waves and soft colors. The text space is integrated into the smooth water or blank sky."
+
+Negative:
+"No overly crowded beach, harsh lighting, or cluttered waves."
+
+Prompt 252
+Positive:
+"A serene botanical garden with exotic plants, winding paths, and a tranquil pond. The text space is placed in the open sky or smooth garden patch."
+
+Negative:
+"No overly dense plants, dark shadows, or busy water features."
+
+Prompt 253
+Positive:
+"A majestic mountain range with towering peaks and a blanket of clouds. The text space is positioned in the open sky or smooth mountain surface."
+
+Negative:
+"No overly busy clouds, dark tones, or cluttered elements."
+
+Prompt 254
+Positive:
+"A futuristic train station with sleek, glowing rails and dynamic vehicles. The text space is integrated into the smooth surface of the train or clear sky."
+
+Negative:
+"No overly crowded vehicles, dark shadows, or chaotic backgrounds."
+
+Prompt 255
+Positive:
+"A quiet riverside with reeds swaying in the breeze and a clear reflection on the water. The text space is placed in the smooth water or open sky."
+
+Negative:
+"No overly dense reeds, dark shadows, or busy water features."
+
+ถ้าอยากได้เพิ่มอีกก็สามารถบอกมาได้เลยครับ! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ขอบคุณที่รอครับ! ต่ออีก 30 Prompt ที่หลากหลายและไม่ซ้ำกันครับ:
+
+Prompt 256
+Positive:
+"A serene, foggy morning in a meadow with dewdrops on tall grass. The text space is integrated into the smooth grass or blank sky."
+
+Negative:
+"No overly dense fog, dark shadows, or cluttered grass."
+
+Prompt 257
+Positive:
+"A minimalist modern living room with clean lines, large windows, and neutral colors. The text space is placed on the smooth wall or open floor space."
+
+Negative:
+"No overly crowded furniture, harsh lighting, or dark corners."
+
+Prompt 258
+Positive:
+"A magical northern lights display over a snowy landscape with frozen trees. The text space is positioned in the clear sky or smooth snow patch."
+
+Negative:
+"No overly busy trees, dark shadows, or chaotic lights."
+
+Prompt 259
+Positive:
+"A cozy coffee shop with soft lighting, wooden furniture, and cozy seating. The text space is integrated into the smooth counter surface or empty wall."
+
+Negative:
+"No overly cluttered tables, harsh lighting, or dark corners."
+
+Prompt 260
+Positive:
+"A dynamic futuristic city with flying vehicles, glowing buildings, and bright neon signs. The text space is placed in the smooth sky or clear street space."
+
+Negative:
+"No overly crowded streets, dark tones, or chaotic elements."
+
+Prompt 261
+Positive:
+"A peaceful autumn park with fallen leaves, benches, and a glowing sunset. The text space is integrated into the smooth ground or blank sky."
+
+Negative:
+"No overly dense leaves, dark shadows, or cluttered benches."
+
+Prompt 262
+Positive:
+"A tranquil beach with golden sand, gentle waves, and a pastel-colored sky. The text space is placed in the open sky or smooth sand area."
+
+Negative:
+"No overly crowded beach, harsh lighting, or busy waves."
+
+Prompt 263
+Positive:
+"A futuristic laboratory with sleek machines, glowing screens, and a clean environment. The text space is integrated into the smooth wall or blank machine area."
+
+Negative:
+"No overly busy machines, dark corners, or chaotic designs."
+
+Prompt 264
+Positive:
+"A vast desert with red sand dunes, cacti, and a bright, clear sky. The text space is positioned in the smooth sky or empty sand area."
+
+Negative:
+"No overly dense cacti, dark shadows, or cluttered sand dunes."
+
+Prompt 265
+Positive:
+"A tranquil mountain lake with crystal-clear water reflecting the sky and trees. The text space is placed in the smooth water or clear sky."
+
+Negative:
+"No overly busy water, dark shadows, or cluttered surroundings."
+
+Prompt 266
+Positive:
+"A vibrant art studio with paint splatters, brushes, and unfinished canvases. The text space is integrated into the smooth floor or blank canvas area."
+
+Negative:
+"No overly chaotic art, dark tones, or cluttered corners."
+
+Prompt 267
+Positive:
+"A stunning cosmic scene with a glowing nebula, distant stars, and a dark void. The text space is positioned in the clear area of the sky or smooth nebula."
+
+Negative:
+"No overly busy stars, dark shadows, or chaotic designs."
+
+Prompt 268
+Positive:
+"A peaceful zen garden with rocks, sand patterns, and a small water feature. The text space is placed on the smooth sand or blank area of the garden."
+
+Negative:
+"No overly dense rocks, dark shadows, or cluttered sand patterns."
+
+Prompt 269
+Positive:
+"A snowy mountain peak with a bright sun casting long shadows and snow-covered slopes. The text space is positioned in the smooth sky or empty snow area."
+
+Negative:
+"No overly busy slopes, dark shadows, or cluttered sky."
+
+Prompt 270
+Positive:
+"A futuristic city skyline with floating platforms, holographic ads, and sleek towers. The text space is integrated into the smooth sky or blank city section."
+
+Negative:
+"No overly busy towers, dark shadows, or chaotic ads."
+
+Prompt 271
+Positive:
+"A lush jungle with towering trees, colorful birds, and vines. The text space is placed in the smooth jungle floor or clear sky."
+
+Negative:
+"No overly dense foliage, dark shadows, or cluttered vines."
+
+Prompt 272
+Positive:
+"A serene lake at dawn with mist rising from the surface and soft golden light. The text space is integrated into the smooth water or blank sky."
+
+Negative:
+"No overly dense fog, dark shadows, or cluttered water details."
+
+Prompt 273
+Positive:
+"A spacious loft apartment with industrial elements, large windows, and a minimalistic design. The text space is placed on the smooth wall or open floor area."
+
+Negative:
+"No overly crowded decor, harsh lighting, or dark tones."
+
+Prompt 274
+Positive:
+"A peaceful botanical garden with exotic flowers, winding paths, and soft natural light. The text space is positioned in the open sky or smooth garden patch."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered water features."
+
+Prompt 275
+Positive:
+"A cozy reading nook with a window seat, soft pillows, and warm blankets. The text space is integrated into the smooth cushion area or clear wall."
+
+Negative:
+"No overly crowded seating, dark lighting, or busy decor."
+
+Prompt 276
+Positive:
+"A serene waterfall cascading down moss-covered rocks into a clear pool. The text space is placed in the smooth water or clear sky."
+
+Negative:
+"No overly dense foliage, dark shadows, or cluttered rocks."
+
+Prompt 277
+Positive:
+"A vibrant street art mural with bold graffiti designs and bright colors. The text space is positioned in a blank section of the mural or smooth wall."
+
+Negative:
+"No overly chaotic designs, dull colors, or clashing elements."
+
+Prompt 278
+Positive:
+"A tranquil fishing dock at sunrise with boats and calm water. The text space is placed in the smooth water or blank sky."
+
+Negative:
+"No overly busy boats, dark shadows, or cluttered dock."
+
+Prompt 279
+Positive:
+"A glowing cityscape at night with neon signs, sleek buildings, and busy streets. The text space is integrated into the smooth sky or blank city area."
+
+Negative:
+"No overly crowded streets, dark tones, or chaotic lighting."
+
+Prompt 280
+Positive:
+"A peaceful countryside with rolling hills, grazing animals, and a bright blue sky. The text space is positioned in the smooth sky or empty field."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered elements."
+
+Prompt 281
+Positive:
+"A dynamic aerial view of a racing circuit with cars zooming around sharp curves. The text space is placed in the open sky or smooth track."
+
+Negative:
+"No overly busy cars, dark shadows, or cluttered backgrounds."
+
+Prompt 282
+Positive:
+"A surreal desert with glowing plants and a setting sun casting long shadows. The text space is integrated into the smooth sand or blank sky."
+
+Negative:
+"No overly busy desert features, dark shadows, or cluttered textures."
+
+Prompt 283
+Positive:
+"A futuristic tech lab with glowing screens, robots, and a sleek design. The text space is placed in the smooth floor area or clear wall section."
+
+Negative:
+"No overly cluttered equipment, dark tones, or chaotic elements."
+
+Prompt 284
+Positive:
+"A tranquil beach at dawn with gentle waves lapping at the shore and soft pastel colors in the sky. The text space is integrated into the smooth water or open sky."
+
+Negative:
+"No overly crowded beach, dark tones, or cluttered waves."
+
+Prompt 285
+Positive:
+"A vibrant market scene with colorful stalls, fresh produce, and busy shoppers. The text space is placed in the open sky or blank market stall."
+
+Negative:
+"No overly crowded stalls, harsh lighting, or cluttered details."
+
+Prompt 286
+Positive:
+"A tranquil forest glade with soft sunlight filtering through the trees. The text space is positioned in the smooth forest floor or clear sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered elements."
+
+Prompt 287
+Positive:
+"A futuristic transportation hub with sleek trains, glowing platforms, and a bustling crowd. The text space is integrated into the smooth background or clear sky."
+
+Negative:
+"No overly busy platforms, dark corners, or chaotic elements."
+
+Prompt 288
+Positive:
+"A scenic coastal road with cliffs, waves crashing against rocks, and a vibrant sunset. The text space is placed in the clear sky or smooth road area."
+
+Negative:
+"No overly busy cliffs, dark shadows, or cluttered roads."
+
+ถ้ามีคำแนะนำเพิ่มเติมหรืออยากปรับเปลี่ยนอะไรบอกมาได้เลยครับ! 😊
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+แน่นอนครับ! นี่คือ 30 Prompt ถัดไปที่หลากหลายและไม่ซ้ำกันครับ:
+
+Prompt 289
+Positive:
+"A lush rainforest with vibrant flowers, towering trees, and a small river running through. The text space is integrated into the smooth river or open sky."
+
+Negative:
+"No overly dense foliage, dark shadows, or cluttered elements."
+
+Prompt 290
+Positive:
+"A peaceful countryside sunset with grazing sheep, rolling hills, and golden light. The text space is positioned in the smooth sky or empty field."
+
+Negative:
+"No overly busy animals, dark tones, or cluttered landscapes."
+
+Prompt 291
+Positive:
+"A futuristic spacecraft in orbit with distant planets and stars. The text space is integrated into the smooth spacecraft surface or blank space in the cosmos."
+
+Negative:
+"No overly crowded space, dark shadows, or chaotic star formations."
+
+Prompt 292
+Positive:
+"A cozy living room with a fireplace, comfortable sofas, and a warm atmosphere. The text space is placed on the smooth floor or empty wall section."
+
+Negative:
+"No overly cluttered furniture, harsh lighting, or dark corners."
+
+Prompt 293
+Positive:
+"A vibrant city park with kids playing, benches, and blooming flowers. The text space is integrated into the smooth grass or blank sky."
+
+Negative:
+"No overly busy park elements, dark shadows, or cluttered benches."
+
+Prompt 294
+Positive:
+"A calming mountain stream with crystal-clear water, moss-covered rocks, and small waterfalls. The text space is placed in the smooth water or blank sky."
+
+Negative:
+"No overly dense rocks, dark shadows, or cluttered water features."
+
+Prompt 295
+Positive:
+"A futuristic sports car driving through a neon-lit cityscape. The text space is positioned in the smooth road or open sky."
+
+Negative:
+"No overly busy streets, dark shadows, or chaotic lights."
+
+Prompt 296
+Positive:
+"A tranquil meditation space with candles, incense, and soft, warm lighting. The text space is integrated into the smooth floor or blank wall area."
+
+Negative:
+"No overly cluttered decor, dark tones, or busy patterns."
+
+Prompt 297
+Positive:
+"A creative digital workspace with multiple monitors, gadgets, and colorful elements. The text space is placed on the smooth desk surface or blank wall."
+
+Negative:
+"No overly cluttered desks, dark tones, or chaotic elements."
+
+Prompt 298
+Positive:
+"A calm river at dusk with gentle ripples and glowing fireflies. The text space is integrated into the smooth water or clear sky."
+
+Negative:
+"No overly busy water, dark shadows, or cluttered banks."
+
+Prompt 299
+Positive:
+"A futuristic street with flying vehicles, glowing streetlights, and modern architecture. The text space is positioned in the smooth sky or empty street area."
+
+Negative:
+"No overly crowded streets, dark tones, or chaotic vehicles."
+
+Prompt 300
+Positive:
+"A secluded beach with soft waves, clear water, and a hammock between two palm trees. The text space is integrated into the smooth sand or clear sky."
+
+Negative:
+"No overly busy beach, dark tones, or cluttered trees."
+
+Prompt 301
+Positive:
+"A peaceful meadow with wildflowers, a small pond, and birds flying overhead. The text space is placed on the smooth water surface or blank sky."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered pond features."
+
+Prompt 302
+Positive:
+"A futuristic city center with holographic ads, glowing billboards, and sleek skyscrapers. The text space is positioned in the smooth background or clear sky."
+
+Negative:
+"No overly crowded streets, dark shadows, or chaotic billboards."
+
+Prompt 303
+Positive:
+"A cozy bedroom with soft lighting, comfortable pillows, and a relaxed atmosphere. The text space is placed on the smooth bed surface or empty wall."
+
+Negative:
+"No overly cluttered furniture, harsh lighting, or dark corners."
+
+Prompt 304
+Positive:
+"A mystical castle surrounded by fog, with towering spires and glowing windows. The text space is integrated into the smooth castle wall or blank sky."
+
+Negative:
+"No overly busy fog, dark shadows, or chaotic castle features."
+
+Prompt 305
+Positive:
+"A serene lagoon with crystal-clear water, tropical fish, and a glowing sunset in the distance. The text space is placed in the smooth water or blank sky."
+
+Negative:
+"No overly crowded fish, dark tones, or cluttered shoreline."
+
+Prompt 306
+Positive:
+"A peaceful forest with large mushrooms, glowing plants, and soft moonlight. The text space is integrated into the smooth forest floor or clear sky."
+
+Negative:
+"No overly dense mushrooms, dark shadows, or cluttered plants."
+
+Prompt 307
+Positive:
+"A futuristic skyline at dusk with glowing towers, holographic displays, and a starry sky. The text space is positioned in the smooth sky or blank city area."
+
+Negative:
+"No overly crowded buildings, dark tones, or chaotic displays."
+
+Prompt 308
+Positive:
+"A quiet fishing village with colorful boats, calm waters, and a sunrise in the background. The text space is placed in the smooth water or clear sky."
+
+Negative:
+"No overly busy boats, dark shadows, or cluttered shoreline."
+
+Prompt 309
+Positive:
+"A scenic winding road through lush hills, with a distant view of the ocean. The text space is integrated into the smooth road or blank sky."
+
+Negative:
+"No overly crowded road, dark shadows, or cluttered landscapes."
+
+Prompt 310
+Positive:
+"A quiet library with tall bookshelves, soft lighting, and comfortable seating. The text space is placed on the smooth table or empty shelf area."
+
+Negative:
+"No overly crowded books, dark corners, or harsh lighting."
+
+Prompt 311
+Positive:
+"A colorful carnival with glowing lights, cotton candy stalls, and a ferris wheel. The text space is integrated into the smooth sky or blank carnival section."
+
+Negative:
+"No overly crowded booths, dark tones, or chaotic designs."
+
+Prompt 312
+Positive:
+"A serene lake with a lone boat drifting on the surface, surrounded by mist. The text space is placed in the smooth water or open sky."
+
+Negative:
+"No overly busy boats, dark tones, or cluttered mist."
+
+Prompt 313
+Positive:
+"A tranquil garden with stone pathways, koi ponds, and delicate cherry blossoms. The text space is integrated into the smooth garden floor or blank sky."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered koi ponds."
+
+Prompt 314
+Positive:
+"A futuristic fashion runway with sleek models, glowing lights, and stylish outfits. The text space is placed on the smooth runway or blank section."
+
+Negative:
+"No overly busy outfits, harsh lighting, or dark shadows."
+
+Prompt 315
+Positive:
+"A vibrant street art scene with murals, spray paint cans, and bold colors. The text space is positioned in the clear section of the mural or smooth wall."
+
+Negative:
+"No overly chaotic designs, dull colors, or clashing elements."
+
+Prompt 316
+Positive:
+"A serene mountain hike with towering cliffs, pine trees, and a bright blue sky. The text space is integrated into the smooth sky or open trail."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered cliffs."
+
+Prompt 317
+Positive:
+"A glowing underwater cave with bioluminescent fish, glowing crystals, and clear water. The text space is placed in the smooth water or blank cave walls."
+
+Negative:
+"No overly busy fish, dark shadows, or cluttered crystals."
+
+Prompt 318
+Positive:
+"A quiet town square with cobblestone streets, fountains, and quaint shops. The text space is integrated into the smooth stone or blank sky."
+
+Negative:
+"No overly crowded streets, dark tones, or cluttered elements."
+
+Prompt 319
+Positive:
+"A peaceful countryside farmhouse with a barn, animals grazing, and a clear sky. The text space is placed in the smooth sky or empty field."
+
+Negative:
+"No overly busy animals, dark shadows, or cluttered landscapes."
+
+Prompt 320
+Positive:
+"A vibrant tropical island with crystal-clear water, palm trees, and a sandy beach. The text space is integrated into the smooth sand or clear sky."
+
+Negative:
+"No overly crowded trees, dark tones, or cluttered beach elements."
+
+ถ้าต้องการเพิ่มเติมหรือปรับแต่งในส่วนใดก็สามารถบอกได้เลยนะครับ! 😄
+
+
+
+
+
+
+
+คุณพูดว่า:
+ต่อมาทีละ30 ขอแบบหลากหลายเปลี่ยนไปเรื่อยๆ พยายามไม่ซ้ำละกันครับ ได้ทุกสไตล์
+ChatGPT พูดว่า:
+ChatGPT
+ได้เลยครับ! ต่ออีก 30 Prompt แบบหลากหลายไม่ซ้ำกันครับ:
+
+Prompt 321
+Positive:
+"A modern minimalist office with a large wooden desk, a computer, and clean white walls. The text space is integrated into the smooth desk surface or empty wall area."
+
+Negative:
+"No overly cluttered desk, dark corners, or harsh lighting."
+
+Prompt 322
+Positive:
+"A neon-lit alleyway in a futuristic city, with glowing graffiti on the walls and soft rain on the ground. The text space is positioned in the smooth alley or open sky."
+
+Negative:
+"No overly busy graffiti, dark shadows, or cluttered street elements."
+
+Prompt 323
+Positive:
+"A tranquil mountain valley with a crystal-clear lake, surrounded by pine trees. The text space is integrated into the smooth water or open sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered terrain."
+
+Prompt 324
+Positive:
+"A peaceful yoga studio with hardwood floors, large windows, and a calming atmosphere. The text space is placed on the smooth floor or empty wall."
+
+Negative:
+"No overly cluttered furniture, harsh lighting, or busy decor."
+
+Prompt 325
+Positive:
+"A futuristic city park with floating benches, glowing pathways, and modern sculptures. The text space is integrated into the smooth sky or clear grass area."
+
+Negative:
+"No overly crowded park elements, dark tones, or chaotic designs."
+
+Prompt 326
+Positive:
+"A vibrant carnival at night, with bright lights, a ferris wheel, and carnival games. The text space is placed in the smooth sky or open space between the rides."
+
+Negative:
+"No overly crowded booths, dark shadows, or chaotic designs."
+
+Prompt 327
+Positive:
+"A quiet beach with smooth white sand, gentle waves, and a distant lighthouse. The text space is integrated into the clear sky or smooth sand area."
+
+Negative:
+"No overly busy waves, dark tones, or cluttered beach elements."
+
+Prompt 328
+Positive:
+"A scenic mountain road with sharp curves, tall trees, and a distant view of the valley below. The text space is placed in the smooth sky or clear road."
+
+Negative:
+"No overly busy trees, dark shadows, or cluttered terrain."
+
+Prompt 329
+Positive:
+"A modern kitchen with sleek appliances, a marble island, and soft lighting. The text space is positioned on the smooth countertop or blank wall."
+
+Negative:
+"No overly cluttered counters, harsh lighting, or dark corners."
+
+Prompt 330
+Positive:
+"A glowing galaxy with vibrant nebulae, distant stars, and a deep purple void. The text space is integrated into the clear part of the sky or smooth nebula."
+
+Negative:
+"No overly crowded stars, dark shadows, or chaotic elements."
+
+Prompt 331
+Positive:
+"A quiet library with rows of bookshelves, a comfortable chair, and soft ambient lighting. The text space is placed on the smooth floor or blank bookcase."
+
+Negative:
+"No overly cluttered bookshelves, dark corners, or harsh lighting."
+
+Prompt 332
+Positive:
+"A serene forest glade with sunlight streaming through the trees, wildflowers, and a small creek. The text space is integrated into the smooth ground or open sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered forest features."
+
+Prompt 333
+Positive:
+"A dynamic futuristic racing track with sleek vehicles speeding through sharp turns. The text space is placed in the smooth sky or clear road area."
+
+Negative:
+"No overly crowded vehicles, dark shadows, or chaotic scenery."
+
+Prompt 334
+Positive:
+"A scenic lake with mist rising from the surface, surrounded by trees and a glowing sunrise. The text space is integrated into the smooth water or clear sky."
+
+Negative:
+"No overly busy water, dark tones, or cluttered shoreline."
+
+Prompt 335
+Positive:
+"A vibrant flower market with colorful bouquets, fresh flowers, and rustic wooden stalls. The text space is placed in the open sky or smooth market stall area."
+
+Negative:
+"No overly crowded flowers, dark shadows, or chaotic designs."
+
+Prompt 336
+Positive:
+"A luxurious living room with plush sofas, a grand chandelier, and soft, warm lighting. The text space is integrated into the smooth floor or blank wall."
+
+Negative:
+"No overly crowded furniture, harsh lighting, or dark corners."
+
+Prompt 337
+Positive:
+"A beautiful autumn forest with red and orange leaves, fallen leaves on the ground, and a winding path. The text space is integrated into the smooth ground or open sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered pathways."
+
+Prompt 338
+Positive:
+"A futuristic technology conference with holographic displays, sleek designs, and a large crowd. The text space is placed in the smooth floor or blank display screen."
+
+Negative:
+"No overly crowded displays, dark tones, or chaotic elements."
+
+Prompt 339
+Positive:
+"A peaceful zen garden with rock formations, sand patterns, and soft ambient lighting. The text space is integrated into the smooth sand or open space."
+
+Negative:
+"No overly dense rocks, dark shadows, or cluttered sand patterns."
+
+Prompt 340
+Positive:
+"A futuristic train station with sleek, glowing platforms, and modern architecture. The text space is integrated into the smooth background or clear sky."
+
+Negative:
+"No overly crowded platforms, dark tones, or chaotic elements."
+
+Prompt 341
+Positive:
+"A vibrant underwater scene with colorful coral reefs, tropical fish, and sunlight filtering through the water. The text space is placed in the smooth water or clear sky above."
+
+Negative:
+"No overly dense coral, dark shadows, or cluttered fish schools."
+
+Prompt 342
+Positive:
+"A tranquil mountain cabin with a warm fire burning, cozy furniture, and a peaceful view outside. The text space is integrated into the smooth cabin walls or open window."
+
+Negative:
+"No overly cluttered decor, harsh lighting, or dark shadows."
+
+Prompt 343
+Positive:
+"A dynamic city street at night with glowing billboards, neon signs, and bustling people. The text space is placed in the smooth sky or blank billboard."
+
+Negative:
+"No overly crowded streets, dark tones, or chaotic lighting."
+
+Prompt 344
+Positive:
+"A lush garden with colorful blooms, winding paths, and soft lighting. The text space is integrated into the smooth floor or clear sky."
+
+Negative:
+"No overly dense flowers, dark shadows, or cluttered paths."
+
+Prompt 345
+Positive:
+"A modern tech workspace with multiple monitors, keyboards, and a sleek desk. The text space is placed on the smooth desk or blank wall."
+
+Negative:
+"No overly cluttered desk, dark tones, or chaotic gadgets."
+
+Prompt 346
+Positive:
+"A scenic island with white sand beaches, clear turquoise water, and palm trees. The text space is integrated into the smooth sand or clear sky."
+
+Negative:
+"No overly crowded trees, dark shadows, or cluttered beach elements."
+
+Prompt 347
+Positive:
+"A vibrant, bustling market street with colorful stalls, spices, and exotic fruits. The text space is integrated into the smooth street or blank stall area."
+
+Negative:
+"No overly busy markets, dark shadows, or chaotic designs."
+
+Prompt 348
+Positive:
+"A futuristic cityscape at sunrise with glowing skyscrapers and sleek flying vehicles. The text space is placed in the smooth sky or blank cityscape."
+
+Negative:
+"No overly crowded vehicles, dark shadows, or chaotic skyline."
+
+Prompt 349
+Positive:
+"A tranquil river flowing through a dense forest, with sunlight filtering through the leaves. The text space is integrated into the smooth water or open sky."
+
+Negative:
+"No overly dense trees, dark shadows, or cluttered water."
+
+Prompt 350
+Positive:
+"A rustic cabin in the woods with a chimney releasing smoke, surrounded by snowy trees. The text space is placed on the smooth snow or clear sky."
+
+Negative:
+"No overly busy snow, dark shadows, or cluttered trees."
